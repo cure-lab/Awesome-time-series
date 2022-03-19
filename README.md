@@ -50,6 +50,7 @@ These datasets are classified based on the following tasks.
 
 |             Paper             | Conference | Year | Code | Used Datasets |
 | :-------------------: | :----------: | :----------: | :------------------------: | ----------------------- |
+|[CATN: Cross Attentive Tree-aware Network for Multivariate Time Series Forecasting](https://www.aaai.org/AAAI22Papers/AAAI-7403.HeH.pdf)| AAAI | 2022 | - | [Traffic](https://archive.ics.uci.edu/ml/datasets/PEMS-SF), [Electricity](https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014), [PeMSD7(M)](https://dot.ca.gov/programs/traffic-operations/mpr/pemssource), [METR-LA](http://ceur-ws.org/Vol-2750/paper9.pdf) |
 
 
 
