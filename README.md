@@ -50,7 +50,12 @@ These datasets are classified based on the following tasks.
 
 |             Paper             | Conference | Year | Code | Used Datasets |
 | :-------------------: | :----------: | :----------: | :------------------------: | ----------------------- |
-
+|[CATN: Cross Attentive Tree-aware Network for Multivariate Time Series Forecasting](https://www.aaai.org/AAAI22Papers/AAAI-7403.HeH.pdf)| AAAI | 2022 | - | [Traffic](https://archive.ics.uci.edu/ml/datasets/PEMS-SF), [Electricity](https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014), [PeMSD7(M)](https://dot.ca.gov/programs/traffic-operations/mpr/pemssource), [METR-LA](http://ceur-ws.org/Vol-2750/paper9.pdf) |
+| [Reinforcement Learning based Dynamic Model Combination for Time Series Forecasting](https://arxiv.org/abs/2022.01846)| AAAI | 2022 | - | [DATA](https://nsrdb.nrel.gov) |
+|[Conditional Local Convolution for Spatio-temporal Meteorological Forecasting](https://arxiv.org/abs/2101.01000)|AAAI | 2022 | [Code link](https://github.com/BIRD-TAO/CLCRN) | - |
+| [TLogic: Temporal Logical Rules for Explainable Link Forecasting on Temporal Knowledge Graphs](https://arxiv.org/abs/2112.08025) | AAAI | 2022 | [Code link](https://github.com/liu-yushan/TLogic) | - |
+| [Spatio-Temporal Recurrent Networks for Event-Based Optical Flow Estimation](https://arxiv.org/abs/2109.04871) | AAAI | 2022 | - | - |
+| [A GNN-RNN Approach for Harnessing Geospatial and Temporal Information: Application to Crop Yield Prediction](https://arxiv.org/pdf/2111.08900.pdf) | AAAI | 2022 | - | - |
 
 
 
@@ -62,15 +67,17 @@ These datasets are classified based on the following tasks.
 
 ## Anomaly Detection
 
-|             Dataset             | Year | Download Link | Domain | Used Papers |
+|             Dataset             | Conference | Year | Code | Used Datasets |
 | :-------------------: | :----------: | :------------------------: | ----------------------- | ------------------------- |
+| [Towards a Rigorous Evaluation of Time-series Anomaly Detection](https://arxiv.org/abs/2109.05257) | AAAI | 2022 | - | - |
+| [DeepGPD: A Deep Learning Approach for Modeling Geospatio-Temporal Extreme Events]() | AAAI | 2022 | - | - |
 
 
 
 ## Time series Clustering 
 |             Paper             | Conference | Year | Code | Used Datasets |
 | :-------------------: | :----------: | :----------: | :------------------------: | ----------------------- |
-
+| [Clustering Interval-Censored Time-Series for Disease Phenotyping](https://arxiv.org/abs/2102.07005v4) | AAAI | 2022 | - | - |
 
 ## Time series Segmentation 
 |             Paper             | Conference | Year | Code | Used Datasets |
@@ -81,5 +88,5 @@ These datasets are classified based on the following tasks.
 
 |             Paper             | Conference | Year | Code | Used Datasets |
 | :-------------------: | :----------: | :----------: | :------------------------: | ----------------------- |
-
+| [Conditional Loss and Deep Euler Scheme for Time Series Generation](https://arxiv.org/abs/2102.05313v5) | AAAI | 2022 | - | - |
 
