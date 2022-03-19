@@ -27,11 +27,21 @@ These datasets are classified based on the following tasks.
 |[Deep learning for time series forecasting: a survey](https://www.liebertpub.com/doi/10.1089/big.2020.0159)| Big Data | 2021 | - | - |
 |[DL-Traff: Survey and Benchmark of Deep Learning Models for Urban Traffic Prediction](https://arxiv.org/pdf/2108.09091.pdf)| CIKM | 2021 | [graph-data](https://github.com/deepkashiwa20/DL-Traff-Graph), [grid-data](https://github.com/deepkashiwa20/DL-Traff-Grid) | - |
 |[Graph Neural Network for Traffic Forecasting: A Survey](https://arxiv.org/pdf/2101.11174v3.pdf)| - | 2021 | - | - |
+|[Deep learning for anomaly detection in time-series data: review, analysis, and guidelines](https://ieeexplore.ieee.org/abstract/document/9523565)| Access | 2021 | - | - |
+|[A review on outlier/anomaly detection in time series data](https://arxiv.org/pdf/2002.04236.pdf)| ACM Computing Surveys | 2021 | - | - |
+|[A unifying review of deep and shallow anomaly detection](http://128.84.4.34/pdf/2009.11732)| Proceedings of the IEEE | 2021 | - | - |
 |[Big Data for Traffic Estimation and Prediction: A Survey of Data and Tools](https://www.mdpi.com/2571-5577/5/1/23)| Applied System Innovation 5 | 2021 | - | - |
+|[Fusion in stock market prediction: A decade survey on the necessity, recent developments, and potential future directions](https://www.sciencedirect.com/science/article/pii/S1566253520303481)| Information Fusion | 2021 | - | - |
+|[Applications of deep learning in stock market prediction: Recent progress](https://www.sciencedirect.com/science/article/pii/S0957417421009441)| ESA | 2021 | - | - |
 |[Deep Learning for Spatio-Temporal Data Mining: A Survey](https://ieeexplore.ieee.org/abstract/document/9204396)| KDD | 2020 | - | - |
 |[Urban flow prediction from spatiotemporal data using machine learning: A survey ](https://www.sciencedirect.com/science/article/abs/pii/S1566253519303094)| Information Fusion | 2020 | - | - |
 |[An empirical survey of data augmentation for time series classification with neural networks](https://arxiv.org/pdf/2007.15951.pdf)| - | 2020 | [link](https://github.com/uchidalab/time_series_augmentation) | - |
 |[Deep Learning on Traffic Prediction: Methods, Analysis and Future Directions](https://arxiv.org/pdf/2004.08555.pdf)| - | 2020 | - | - |
+|[Neural forecasting: Introduction and literature overview](https://arxiv.org/pdf/2004.10240.pdf)| - | 2020 | - | - |
+|[Deep Learning on Traffic Prediction: Methods, Analysis and Future Directions](https://arxiv.org/pdf/2004.08555.pdf)| - | 2020 | - | - |
+|[Deep learning for time series classification: a review](https://arxiv.org/pdf/2004.08555.pdf)| Data Mining and Knowledge Discovery | 2019 | [link](https://github.com/hfawaz/dl-4-tsc) | - |
+|[Financial time series forecasting with deep learning : A systematic literature review: 2005–2019](https://arxiv.org/pdf/1911.13288.pdf)| ASC | 2019 | - | - |
+|[Natural language based financial forecasting: a survey](https://dspace.mit.edu/bitstream/handle/1721.1/116314/10462_2017_9588_ReferencePDF.pdf?sequence=2&isAllowed=y)| Artificial Intelligence Review | 2018 | - | - |
 
 
 
