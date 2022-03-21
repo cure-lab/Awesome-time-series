@@ -56,13 +56,20 @@ These datasets are classified based on the following tasks.
 | [TLogic: Temporal Logical Rules for Explainable Link Forecasting on Temporal Knowledge Graphs](https://arxiv.org/abs/2112.08025) | AAAI | 2022 | [Code link](https://github.com/liu-yushan/TLogic) | - |
 | [Spatio-Temporal Recurrent Networks for Event-Based Optical Flow Estimation](https://arxiv.org/abs/2109.04871) | AAAI | 2022 | - | - |
 | [A GNN-RNN Approach for Harnessing Geospatial and Temporal Information: Application to Crop Yield Prediction](https://arxiv.org/pdf/2111.08900.pdf) | AAAI | 2022 | - | - |
+| [Deep Switching Auto-Regressive Factorization: Application to Time Series Forecasting](https://arxiv.org/abs/2009.05135) | AAAI | 2021 | - | [Pacific Ocean Temperature Dataset](http://iridl.ldeo.columbia.edu/), [Parking Birmingham Data Set](https://data.birmingham.gov.uk/dataset/birmingham-parking), ........ | it parameterizes the weights in terms of a deep switching vector auto-regressive likelihood governed with a Markovian prior |
+| [Dynamic Gaussian Mixture Based Deep Generative Model for Robust Forecasting on Sparse Multivariate Time Series](https://arxiv.org/abs/2103.02164) | AAAI | 2021 | - | [USHCN](https://www.ncdc.noaa.gov/ushcn/introduction), [KDD-CUP](https://www.kdd.org/kdd2018/kdd-cup), MIMIC-III |provides a novel and general solution that explicitly defines temporal dependency between Gaussian mixture distributions at different time steps |
+| [Temporal Latent Autoencoder: A Method for Probabilistic Multivariate Time Series Forecasting](https://www.aaai.org/AAAI21Papers/AAAI-3796.NguyenN.pdf) | AAAI | 2021 | -| Traffic, Electricity, Wiki | introduced a novel temporal latent auto-encoder method which enables nonlinear factorization of multivariate time series, learned end-to-end with a temporal deep learning latent space forecast model. By imposing a probabilistic latent space model, complex distributions of the input series are modeled via the decoder.|
+| [Synergetic Learning of Heterogeneous Temporal Sequences for Multi-Horizon Probabilistic Forecasting](https://arxiv.org/abs/2102.00431) | AAAI | 2021 | - | Electricity(UCI), Traffic, Environment(Li, L.;Yan,J.;Yang,X.;and Jin,Y.2019a.) | presented a novel approach based on the deep conditional generative model to jointly learn from heterogeneous temporal sequences.|
 
 
 
 ## Time Series Classification 
 |             Paper             | Conference | Year | Code | Used Datasets |Key Contribution|
 | :-------------------: | :----------: | :----------: | :------------------------: | ----------------------- |------ |
-
+| [Correlative Channel-Aware Fusion for Multi-View Time Series Classification](https://arxiv.org/abs/1911.11561) | AAAI | 2021 | - | EV-Action, NTU RGB+D, UCI Daily and Sports Activities | The global-local temporal encoders are developed to extract robust temporal representations for each view, and a learnable fusion mechanism is proposed to boost the multi-view label information. |
+| [Learnable Dynamic Temporal Pooling for Time Series Classification](https://arxiv.org/abs/2104.02577) | AAAI | 2021 | - | UCR/UEA |proposes a dynamic temporal pooling + a learning framework to simultaneously optimize the network parameters of a CNN classifier and the prototypical hidden series that encodes the latent semantic of the segments. |
+| [ShapeNet: A Shapelet-Neural Network Approach for Multivariate Time Series Classification](https://ojs.aaai.org/index.php/AAAI/article/view/17018) | AAAI | 2021 | [Code link](http://alturl.com/d26bo) | UEA MTS datasets | We propose Mdc-CNN to learn time series subsequences of various lengths into unified space and propose a cluster-wise triplet loss to train the network in an unsupervised fashion. We adopt MST to obtain the MST representation of time series. |
+| [Joint-Label Learning by Dual Augmentation for Time Series Classification](https://ojs.aaai.org/index.php/AAAI/article/view/17071) | AAAI | 2021 | [Code](https://github.com/fchollet/keras) | [UCR](https://www.cs.ucr.edu/˜eamonn/) | a novel time-series data augmentation method  |
 
 
 ## Anomaly Detection
@@ -71,7 +78,9 @@ These datasets are classified based on the following tasks.
 | :-------------------: | :----------: | :------------------------: | ----------------------- | ------------------------- |------ |
 | [Towards a Rigorous Evaluation of Time-series Anomaly Detection](https://arxiv.org/abs/2109.05257) | AAAI | 2022 | - | - |
 | [DeepGPD: A Deep Learning Approach for Modeling Geospatio-Temporal Extreme Events]() | AAAI | 2022 | - | - |
-
+| [Graph Neural Network-Based Anomaly Detection in Multivariate Time Series]() | AAAI | 2021 | - | - | - | - |
+| [Time Series Anomaly Detection with Multiresolution Ensemble Decoding]() | AAAI | 2021 | - | - | - |- |
+| [Outlier Impact Characterization for Time Series Data]() | AAAI | 2021 | - | - | - |- |
 
 
 ## Time series Clustering 
@@ -88,5 +97,6 @@ These datasets are classified based on the following tasks.
 
 |             Paper             | Conference | Year | Code | Used Datasets |Key Contribution|
 | :-------------------: | :----------: | :----------: | :------------------------: | ----------------------- |------ |
-| [Conditional Loss and Deep Euler Scheme for Time Series Generation](https://arxiv.org/abs/2102.05313v5) | AAAI | 2022 | - | - |
-
+| [Conditional Loss and Deep Euler Scheme for Time Series Generation](https://arxiv.org/abs/2102.05313v5) | AAAI | 2022 | - | - | - |
+| [TS2Vec: Towards Universal Representation of Time Series](https://arxiv.org/abs/2106.10466) | AAAI | 2022 | [Code link](https://github.com/yuezhihan/ts2vec) | [128 UCR datasets](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/),[30 UEA datasets](http://www.timeseriesclassification.com/), [3 ETT datasets](https://github.com/zhouhaoyi/ETDataset), [Electricity](https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014), [Yahoo dataset](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70), [KPI dataset](http://test-10056879.file.myqcloud.com/10056879/test/20180524_78431960010324/KPI%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B%E5%86%B3%E8%B5%9B%E6%95%B0%E6%8D%AE%E9%9B%86.zip)  | performs contrastive learning in a hierarchical way over augmented context views|
+| [Generative Semi-Supervised Learning for Multivariate Time Series Imputation]() | AAAI | 2021 | - | - | - |
