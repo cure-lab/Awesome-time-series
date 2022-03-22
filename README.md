@@ -77,7 +77,7 @@ These datasets are classified based on the following tasks.
 |             Dataset             | Conference | Year | Code | Used Datasets |Key Contribution|
 | :-------------------: | :----------: | :------------------------: | ----------------------- | ------------------------- |------ |
 | [Towards a Rigorous Evaluation of Time-series Anomaly Detection](https://arxiv.org/abs/2109.05257) | AAAI | 2022 | - | Secure water treatment (SWaT), ...... | applying PA can severely overestimate a TAD model’s capability.|
-| [DeepGPD: A Deep Learning Approach for Modeling Geospatio-Temporal Extreme Events]() | AAAI | 2022 | - | - |
+| [DeepGPD: A Deep Learning Approach for Modeling Geospatio-Temporal Extreme Events](https://aaai-2022.virtualchair.net/poster_aaai10861) | AAAI | 2022 | [Code link](https://github.com/TylerPWilson/deepGPD) | [the Global Historical Climatology Network (GHCN)](https://www.ncdc.noaa.gov/ghcn-daily-description) |proposed a novel deep learning architecture (DeepGPD) capable of learning the parameters of the generalized Pareto distribution while satisfying the conditions placed on those parameters.|
 | [Graph Neural Network-Based Anomaly Detection in Multivariate Time Series]() | AAAI | 2021 | - | - | - | - |
 | [Time Series Anomaly Detection with Multiresolution Ensemble Decoding]() | AAAI | 2021 | - | - | - |- |
 | [Outlier Impact Characterization for Time Series Data]() | AAAI | 2021 | - | - | - |- |
