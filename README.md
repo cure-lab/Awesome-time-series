@@ -78,9 +78,9 @@ These datasets are classified based on the following tasks.
 | :-------------------: | :----------: | :------------------------: | ----------------------- | ------------------------- |------ |
 | [Towards a Rigorous Evaluation of Time-series Anomaly Detection](https://arxiv.org/abs/2109.05257) | AAAI | 2022 | - | Secure water treatment (SWaT), ...... | applying PA can severely overestimate a TAD model’s capability.|
 | [DeepGPD: A Deep Learning Approach for Modeling Geospatio-Temporal Extreme Events](https://aaai-2022.virtualchair.net/poster_aaai10861) | AAAI | 2022 | [Code link](https://github.com/TylerPWilson/deepGPD) | [the Global Historical Climatology Network (GHCN)](https://www.ncdc.noaa.gov/ghcn-daily-description) |proposed a novel deep learning architecture (DeepGPD) capable of learning the parameters of the generalized Pareto distribution while satisfying the conditions placed on those parameters.|
-| [Graph Neural Network-Based Anomaly Detection in Multivariate Time Series]() | AAAI | 2021 | - | - | - | - |
-| [Time Series Anomaly Detection with Multiresolution Ensemble Decoding]() | AAAI | 2021 | - | - | - |- |
-| [Outlier Impact Characterization for Time Series Data]() | AAAI | 2021 | - | - | - |- |
+| [Graph Neural Network-Based Anomaly Detection in Multivariate Time Series](https://www.aaai.org/AAAI21Papers/AAAI-5076.DengA.pdf) | AAAI | 2021 | - | - | - | - |
+| [Time Series Anomaly Detection with Multiresolution Ensemble Decoding](https://www.aaai.org/AAAI21Papers/AAAI-5192.ShenL.pdf) | AAAI | 2021 | - | - | - |- |
+| [Outlier Impact Characterization for Time Series Data](https://par.nsf.gov/servlets/purl/10272499) | AAAI | 2021 | [benchmark](https://github.com/numenta/NAB) | [Webscope](http://labs.yahoo.com/Academic-Relations), [Physionet](https://physionet.org/content/chfdb/1.0.0/) | - |
 
 
 ## Time series Clustering 
@@ -99,4 +99,4 @@ These datasets are classified based on the following tasks.
 | :-------------------: | :----------: | :----------: | :------------------------: | ----------------------- |------ |
 | [Conditional Loss and Deep Euler Scheme for Time Series Generation](https://arxiv.org/abs/2102.05313v5) | AAAI | 2022 | - | - | - |
 | [TS2Vec: Towards Universal Representation of Time Series](https://arxiv.org/abs/2106.10466) | AAAI | 2022 | [Code link](https://github.com/yuezhihan/ts2vec) | [128 UCR datasets](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/),[30 UEA datasets](http://www.timeseriesclassification.com/), [3 ETT datasets](https://github.com/zhouhaoyi/ETDataset), [Electricity](https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014), [Yahoo dataset](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70), [KPI dataset](http://test-10056879.file.myqcloud.com/10056879/test/20180524_78431960010324/KPI%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B%E5%86%B3%E8%B5%9B%E6%95%B0%E6%8D%AE%E9%9B%86.zip)  | performs contrastive learning in a hierarchical way over augmented context views|
-| [Generative Semi-Supervised Learning for Multivariate Time Series Imputation]() | AAAI | 2021 | - | - | - |
+| [Generative Semi-Supervised Learning for Multivariate Time Series Imputation](https://www.aaai.org/AAAI21Papers/AAAI-7391.MiaoX.pdf) | AAAI | 2021 | - | - | - |
