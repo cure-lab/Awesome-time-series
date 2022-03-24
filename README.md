@@ -60,7 +60,11 @@ These datasets are classified based on the following tasks.
 | [Dynamic Gaussian Mixture Based Deep Generative Model for Robust Forecasting on Sparse Multivariate Time Series](https://arxiv.org/abs/2103.02164) | AAAI | 2021 | - | [USHCN](https://www.ncdc.noaa.gov/ushcn/introduction), [KDD-CUP](https://www.kdd.org/kdd2018/kdd-cup), MIMIC-III |provides a novel and general solution that explicitly defines temporal dependency between Gaussian mixture distributions at different time steps |
 | [Temporal Latent Autoencoder: A Method for Probabilistic Multivariate Time Series Forecasting](https://www.aaai.org/AAAI21Papers/AAAI-3796.NguyenN.pdf) | AAAI | 2021 | -| Traffic, Electricity, Wiki | introduced a novel temporal latent auto-encoder method which enables nonlinear factorization of multivariate time series, learned end-to-end with a temporal deep learning latent space forecast model. By imposing a probabilistic latent space model, complex distributions of the input series are modeled via the decoder.|
 | [Synergetic Learning of Heterogeneous Temporal Sequences for Multi-Horizon Probabilistic Forecasting](https://arxiv.org/abs/2102.00431) | AAAI | 2021 | - | Electricity(UCI), Traffic, Environment(Li, L.;Yan,J.;Yang,X.;and Jin,Y.2019a.) | presented a novel approach based on the deep conditional generative model to jointly learn from heterogeneous temporal sequences.|
-
+| [ST-GSP: Spatial-Temporal Global Semantic Representation Learning for Urban Flow Prediction](https://dl.acm.org/doi/10.1145/3488560.3498444) | WSDM | 2022 | [Code link](https://github.com/k51/STGSP) | - |- |
+| [Time-Series Event Prediction with Evolutionary State Graph](https://arxiv.org/pdf/1905.05006.pdf) | WSDM | 2021 | [Code link](https://github.com/VachelHU/EvoNet) | - |- |
+| [Long Horizon Forecasting With Temporal Point Processes](https://arxiv.org/pdf/2101.02815.pdf) | WSDM | 2021 | - | - |- |
+| [Modeling Inter-station Relationships with Attentive Temporal Graph Convolutional Network for Air Quality Prediction](https://dl.acm.org/doi/pdf/10.1145/3437963.3441731) | WSDM | 2021 | - | - |- |
+| [Predicting Crowd Flows via Pyramid Dilated Deeper Spatial-temporal Network](https://dl.acm.org/doi/pdf/10.1145/3437963.3441785) | WSDM | 2021 | - | - |- |
 
 
 ## Time Series Classification 
@@ -70,7 +74,7 @@ These datasets are classified based on the following tasks.
 | [Learnable Dynamic Temporal Pooling for Time Series Classification](https://arxiv.org/abs/2104.02577) | AAAI | 2021 | - | UCR/UEA |proposes a dynamic temporal pooling + a learning framework to simultaneously optimize the network parameters of a CNN classifier and the prototypical hidden series that encodes the latent semantic of the segments. |
 | [ShapeNet: A Shapelet-Neural Network Approach for Multivariate Time Series Classification](https://ojs.aaai.org/index.php/AAAI/article/view/17018) | AAAI | 2021 | [Code link](http://alturl.com/d26bo) | UEA MTS datasets | We propose Mdc-CNN to learn time series subsequences of various lengths into unified space and propose a cluster-wise triplet loss to train the network in an unsupervised fashion. We adopt MST to obtain the MST representation of time series. |
 | [Joint-Label Learning by Dual Augmentation for Time Series Classification](https://ojs.aaai.org/index.php/AAAI/article/view/17071) | AAAI | 2021 | [Code](https://github.com/fchollet/keras) | [UCR](https://www.cs.ucr.edu/˜eamonn/) | a novel time-series data augmentation method  |
-
+| [Explainable Multivariate Time Series Classification: A Deep Neural Network Which Learns To Attend To Important Variables As Well As Time Intervals](https://arxiv.org/pdf/2011.11631.pdf) | WSDM | 2021 | - | - |- |
 
 ## Anomaly Detection
 
@@ -81,7 +85,8 @@ These datasets are classified based on the following tasks.
 | [Graph Neural Network-Based Anomaly Detection in Multivariate Time Series](https://www.aaai.org/AAAI21Papers/AAAI-5076.DengA.pdf) | AAAI | 2021 | - | - | - | - |
 | [Time Series Anomaly Detection with Multiresolution Ensemble Decoding](https://www.aaai.org/AAAI21Papers/AAAI-5192.ShenL.pdf) | AAAI | 2021 | - | - | - |- |
 | [Outlier Impact Characterization for Time Series Data](https://par.nsf.gov/servlets/purl/10272499) | AAAI | 2021 | [benchmark](https://github.com/numenta/NAB) | [Webscope](http://labs.yahoo.com/Academic-Relations), [Physionet](https://physionet.org/content/chfdb/1.0.0/) | - |
-
+| [F-FADE: Frequency Factorization for Anomaly Detection in Edge Streams](https://arxiv.org/pdf/2011.04723.pdf) | WSDM | 2021 | [Code link](http://snap.stanford.edu/f-fade/) | - |- |
+| [FluxEV: A Fast and Effective Unsupervised Framework for Time-Series Anomaly Detection](https://dl.acm.org/doi/pdf/10.1145/3437963.3441823) | WSDM | 2021 | [Code link](https://github.com/DawnsonLi/EVT) | - |- |
 
 ## Time series Clustering 
 |             Paper             | Conference | Year | Code | Used Datasets |Key Contribution|
@@ -100,3 +105,10 @@ These datasets are classified based on the following tasks.
 | [Conditional Loss and Deep Euler Scheme for Time Series Generation](https://arxiv.org/abs/2102.05313v5) | AAAI | 2022 | - | - | - |
 | [TS2Vec: Towards Universal Representation of Time Series](https://arxiv.org/abs/2106.10466) | AAAI | 2022 | [Code link](https://github.com/yuezhihan/ts2vec) | [128 UCR datasets](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/),[30 UEA datasets](http://www.timeseriesclassification.com/), [3 ETT datasets](https://github.com/zhouhaoyi/ETDataset), [Electricity](https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014), [Yahoo dataset](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70), [KPI dataset](http://test-10056879.file.myqcloud.com/10056879/test/20180524_78431960010324/KPI%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B%E5%86%B3%E8%B5%9B%E6%95%B0%E6%8D%AE%E9%9B%86.zip)  | performs contrastive learning in a hierarchical way over augmented context views|
 | [Generative Semi-Supervised Learning for Multivariate Time Series Imputation](https://www.aaai.org/AAAI21Papers/AAAI-7391.MiaoX.pdf) | AAAI | 2021 | - | - | - |
+| [EvoKG: Jointly Modeling Event Time and Network Structure for Reasoning over Temporal Knowledge Graphs](https://dl.acm.org/doi/10.1145/3488560.3498451) | WSDM | 2022 | [Code link](https://namyongpark.github.io/evokg) | - | - |
+| [Time Masking for Temporal Language Models](https://dl.acm.org/doi/abs/10.1145/3488560.3498529) | WSDM | 2022 | [Code link](https://github.com/guyrosin/tempobert) | - |- |
+| [Long Short-Term Temporal Meta-learning in Online Recommendation](https://dl.acm.org/doi/10.1145/3488560.3498371) | WSDM | 2022 | - | - |- |
+| [Structure Meets Sequences: Predicting Network of Co-evolving Sequences](https://dl.acm.org/doi/10.1145/3488560.3498411) | WSDM | 2022 | [Code link](https://github.com/SoftWiser-group/SeeS) | - |- |
+| [Temporal Cross-Effects in Knowledge Tracing](https://dl.acm.org/doi/pdf/10.1145/3437963.3441802) | WSDM | 2021 | - | - |- |
+| [Learning Dynamic Embeddings for Temporal Knowledge Graphs](https://dl.acm.org/doi/pdf/10.1145/3437963.3441741) | WSDM | 2021 | - | - |- |
+| [Temporal Meta-path Guided Explainable Recommendation](https://arxiv.org/pdf/2101.01433.pdf) | WSDM | 2021 | - | - |- |
