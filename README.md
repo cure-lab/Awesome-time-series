@@ -65,6 +65,12 @@ These datasets are classified based on the following tasks.
 | [Long Horizon Forecasting With Temporal Point Processes](https://arxiv.org/pdf/2101.02815.pdf) | WSDM | 2021 | - | - |- |
 | [Modeling Inter-station Relationships with Attentive Temporal Graph Convolutional Network for Air Quality Prediction](https://dl.acm.org/doi/pdf/10.1145/3437963.3441731) | WSDM | 2021 | - | - |- |
 | [Predicting Crowd Flows via Pyramid Dilated Deeper Spatial-temporal Network](https://dl.acm.org/doi/pdf/10.1145/3437963.3441785) | WSDM | 2021 | - | - |- |
+| [PYRAFORMER: LOW-COMPLEXITY PYRAMIDAL ATTENTION FOR LONG-RANGE TIME SERIES MODELING AND FORECASTING](https://openreview.net/pdf?id=0EXmFzUn5I) | ICLR | 2022 | [Code link](https://github.com/alipay/Pyraformer) | Electricity, Wind and App Flow | - |
+| [DEPTS: DEEP EXPANSION LEARNING FOR PERIODIC TIME SERIES FORECASTING](https://openreview.net/pdf?id=AJAR-JgNw__) | ICLR | 2022 | [Code link](https://github.com/weifantt/DEPTS) | ELECTRICITY, TRAFFIC2, and M4(HOURLY) | - |
+| [TAMP-S2GCNETS: COUPLING TIME-AWARE MULTIPERSISTENCE KNOWLEDGE REPRESENTATION WITH SPATIO-SUPRA GRAPH CONVOLUTIONAL NETWORKS FOR TIME-SERIES FORECASTING](https://openreview.net/pdf?id=wv6g8fWLX2q) | ICLR | 2022 | [Code link](https://www.dropbox.com/sh/n0ajd5l0tdeyb80/AABGn-ejfV1YtRwjf_L0AOsNa?dl=0.) | PeMSD3, PeMSD4, PeMSD8 and COVID-19 | - |
+| [CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting](https://arxiv.org/abs/2202.01575) | ICLR | 2022 | [Code link](https://github.com/salesforce/CoST) | [ETT](https://github.com/zhouhaoyi/ETDataset),[Electricity](https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014),[Weather](https://www.ncei.noaa.gov/data/local-climatological-data/) |- |
+| [REVERSIBLE INSTANCE NORMALIZATION FOR ACCURATE TIME-SERIES FORECASTING AGAINST DISTRIBUTION SHIFT](https://openreview.net/pdf?id=cGDAkQo1C0p) | ICLR | 2022 | - | [ETT](https://github.com/zhouhaoyi/ETDataset), [Electricity Consuming Load (ECL)](https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014) |- |
+| [TEMPORAL ALIGNMENT PREDICTION FOR SUPERVISED REPRESENTATION LEARNING AND FEW-SHOT SEQUENCE CLASSIFICATION](https://openreview.net/pdf?id=p3DKPQ7uaAi) | ICLR | 2022 | [Code link](https://github.com/BingSu12/TAP) | MSR Action3D, MSR Daily Activity3D, “Spoken Arabic Digits (SAD)” dataset, ChaLearn | - |
 
 
 ## Time Series Classification 
@@ -75,6 +81,8 @@ These datasets are classified based on the following tasks.
 | [ShapeNet: A Shapelet-Neural Network Approach for Multivariate Time Series Classification](https://ojs.aaai.org/index.php/AAAI/article/view/17018) | AAAI | 2021 | [Code link](http://alturl.com/d26bo) | UEA MTS datasets | We propose Mdc-CNN to learn time series subsequences of various lengths into unified space and propose a cluster-wise triplet loss to train the network in an unsupervised fashion. We adopt MST to obtain the MST representation of time series. |
 | [Joint-Label Learning by Dual Augmentation for Time Series Classification](https://ojs.aaai.org/index.php/AAAI/article/view/17071) | AAAI | 2021 | [Code](https://github.com/fchollet/keras) | [UCR](https://www.cs.ucr.edu/˜eamonn/) | a novel time-series data augmentation method  |
 | [Explainable Multivariate Time Series Classification: A Deep Neural Network Which Learns To Attend To Important Variables As Well As Time Intervals](https://arxiv.org/pdf/2011.11631.pdf) | WSDM | 2021 | - | - |- |
+
+
 
 
 
