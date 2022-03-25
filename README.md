@@ -125,4 +125,6 @@ These datasets are classified based on the following tasks.
 | [Learning Dynamic Embeddings for Temporal Knowledge Graphs](https://dl.acm.org/doi/pdf/10.1145/3437963.3441741) | WSDM | 2021 | - | - |- |
 | [Temporal Meta-path Guided Explainable Recommendation](https://arxiv.org/pdf/2101.01433.pdf) | WSDM | 2021 | - | - |- |
 | [FILLING THE G AP S: MULTIVARIATE TIME SERIES IMPUTATION BY GRAPH NEURAL NETWORKS](https://openreview.net/pdf?id=kOu3-S3wJ7) | 2022 | ICLR | - | Air quality, Traffic, and Smart Grids | - |
+| [PSA-GAN: PROGRESSIVE SELF ATTENTION GANS FOR SYNTHETIC TIME SERIES](https://openreview.net/pdf?id=Ix_mh42xq5w) | 2022 | ICLR | [Code link](https://github.com/mbohlkeschneider/psa-gan), [Code on glueonts](https://github.com/awslabs/gluon-ts.) | Electricty, M4, Solar energy, Traffic | - |
+
 
