@@ -99,6 +99,10 @@ These datasets are classified based on the following tasks.
 | [Outlier Impact Characterization for Time Series Data](https://par.nsf.gov/servlets/purl/10272499) | AAAI | 2021 | [benchmark](https://github.com/numenta/NAB) | [Webscope](http://labs.yahoo.com/Academic-Relations), [Physionet](https://physionet.org/content/chfdb/1.0.0/) | - |
 | [F-FADE: Frequency Factorization for Anomaly Detection in Edge Streams](https://arxiv.org/pdf/2011.04723.pdf) | WSDM | 2021 | [Code link](http://snap.stanford.edu/f-fade/) | - |- |
 | [FluxEV: A Fast and Effective Unsupervised Framework for Time-Series Anomaly Detection](https://dl.acm.org/doi/pdf/10.1145/3437963.3441823) | WSDM | 2021 | [Code link](https://github.com/DawnsonLi/EVT) | - |- |
+| [Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](https://arxiv.org/abs/2202.07857) | 2022 | ICLR | - | PMU-B, PMU-C, SWaT, METR-LA | - |
+| [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://arxiv.org/abs/2110.02642) | 2022 | ICLR | [Code link]() | - | - |
+
+
 
 ## Time series Clustering 
 |             Paper             | Conference | Year | Code | Used Datasets |Key Contribution|
