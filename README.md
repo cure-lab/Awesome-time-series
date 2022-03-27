@@ -90,7 +90,15 @@ These datasets are classified based on the following tasks.
 | [Test-time Collective Predictionh](ttps://arxiv.org/pdf/2106.12012v1.pdf) | NeurIPS | 2021 | - | - | - |
 | [Bubblewrap: Online tiling and real-time flow prediction on neural manifolds](https://arxiv.org/pdf/2108.13941v1.pdf) | NeurIPS | 2021 | [Code link](https://github.com/pearsonlab/Bubblewrap) | - | - |
 | [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://arxiv.org/pdf/2106.13008v2.pdf) | NeurIPS | 2021 | [Code link](https://github.com/thuml/Autoformer) | - | - |
-
+| [DeepFEC: Energy Consumption Prediction under Real-World Driving Conditions for Smart Cities]() | WWW | 2021| [Code link]() | - | - |
+| [HINTS: Citation Time Series Prediction for New Publications viaDynamic Heterogeneous Information Network Embedding]() | WWW | 2021| [Code link]() | - | - |
+| [Bid Prediction in Repeated Auctions with Learning]() | WWW | 2021| [Code link]() | - | - |
+| [Outlier-Resilient Web Service QoS Prediction]() | WWW | 2021| [Code link]() | - | - |
+| [Variable Interval Time Sequence Modeling for Career Trajectory Prediction: Deep Collaborative Perspective]() | WWW | 2021| [Code link]() | - | - |
+| [REST: Reciprocal Framework for Spatiotemporal coupled predictions]() | WWW | 2021| [Code link]() | - | - |
+| [AutoSTG: Neural Architecture Search for Predictions of Spatio-Temporal Graph]() | WWW | 2021| [Code link]() | - | - |
+| [Fine-grained Urban Flow Prediction]() | WWW | 2021| [Code link]() | - | - |
+| []() | WWW | 2021| [Code link]() | - | - |
 
 ## Time Series Classification 
 |             Paper             | Conference | Year | Code | Used Datasets |Key Contribution|
@@ -130,6 +138,13 @@ These datasets are classified based on the following tasks.
 | [You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection](https://arxiv.org/pdf/2106.00666.pdf) | NeurIPS | 2021 | [Code link](https://github.com/hustvl/YoLos) | - | - |
 | [Drop-DTW: Aligning Common Signal Between Sequences While Dropping Outliers](https://arxiv.org/pdf/2108.11996.pdf)| NeurIPS | 2021 | - | - | - |
 | [Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation](https://arxiv.org/pdf/2107.03502.pdf)| NeurIPS | 2021 | [Code link](https:/github.com/ermongroup/CsDl) | - | - |
+| [SDFVAE: Static and Dynamic Factorized VAE for Anomaly Detection of Multivariate CDN KPIs]() | WWW | 2021| [Code link]() | - | - |
+| [Time-series Change Point Detection with Self-Supervised Contrastive Predictive Coding]() | WWW | 2021| [Code link]() | - | - |
+| [NTAM: Neighborhood-Temporal Attention Model for Disk Failure Prediction in Cloud Platforms]() | WWW | 2021| [Code link]() | - | - |
+| [One Detector to Rule Them All: Towards a General Deepfake Attack Detection Framework]() | WWW | 2021| [Code link]() | - | - |
+
+
+
 
 ## Time series Clustering 
 |             Paper             | Conference | Year | Code | Used Datasets |Key Contribution|
