@@ -89,8 +89,8 @@ These datasets are classified based on the following tasks.
 | [MixSeq: Connecting Macroscopic Time Series Forecasting with Microscopic Time Series Data](https://arxiv.org/pdf/2110.14354v1.pdf) | NeurIPS | 2021 | - | - | - |
 | [Test-time Collective Predictionh](ttps://arxiv.org/pdf/2106.12012v1.pdf) | NeurIPS | 2021 | - | - | - |
 | [Bubblewrap: Online tiling and real-time flow prediction on neural manifolds](https://arxiv.org/pdf/2108.13941v1.pdf) | NeurIPS | 2021 | [Code link](https://github.com/pearsonlab/Bubblewrap) | - | - |
-| [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://arxiv.org/pdf/2106.13008v2.pdf) | NeurIPS | 2021 | [Code link]() | - | - |
-| []() | NeurIPS | 2021 | [Code link]() | - | - |
+| [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://arxiv.org/pdf/2106.13008v2.pdf) | NeurIPS | 2021 | [Code link](https://github.com/thuml/Autoformer) | - | - |
+
 
 ## Time Series Classification 
 |             Paper             | Conference | Year | Code | Used Datasets |Key Contribution|
@@ -125,12 +125,17 @@ These datasets are classified based on the following tasks.
 | [Practical Approach to Asynchronous Multi-variate Time Series Anomaly Detection and Localization](https://dl.acm.org/doi/10.1145/3447548.3467174) | KDD |2021 |  [Code link](https://github.com/eBay/RANSyncoders) | - |- |
 | [Time Series Anomaly Detection for Cyber-physical Systems via Neural System Identification and Bayesian Filtering](https://dl.acm.org/doi/10.1145/3447548.3467137) |KDD | 2021 |  [Code link](https://github.com/NSIBF/NSIBF) | - |- |
 | [Multi-Scale One-Class Recurrent Neural Networks for Discrete Event Sequence Anomaly Detection](https://dl.acm.org/doi/10.1145/3447548.3467125) | KDD |2021 |  [Code link](https://github.com/wzwtrevor/Multi-Scale-One-Class-Recurrent-Neural-Networks) | - |- |
-
+| [Online false discovery rate control for anomaly detection in time series](https://assets.amazon.science/7f/93/7e61ec0143ce844f71d507e7185e/on-line-false-discovery-rate-control-for-anomaly-detection-in-time-series.pdf) | NeurIPS | 2021 | - | - | - |
+| [Detecting Anomalous Event Sequences with Temporal Point Processes](https://arxiv.org/pdf/2106.04465.pdf) | NeurIPS | 2021 | - | - | - |
+| [You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection](https://arxiv.org/pdf/2106.00666.pdf) | NeurIPS | 2021 | [Code link](https://github.com/hustvl/YoLos) | - | - |
+| [Drop-DTW: Aligning Common Signal Between Sequences While Dropping Outliers](https://arxiv.org/pdf/2108.11996.pdf)| NeurIPS | 2021 | - | - | - |
+| [Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation](https://arxiv.org/pdf/2107.03502.pdf)| NeurIPS | 2021 | [Code link](https:/github.com/ermongroup/CsDl) | - | - |
 
 ## Time series Clustering 
 |             Paper             | Conference | Year | Code | Used Datasets |Key Contribution|
 | :-------------------: | :----------: | :----------: | :------------------------: | ----------------------- |------ |
 | [Clustering Interval-Censored Time-Series for Disease Phenotyping](https://arxiv.org/abs/2102.07005v4) | AAAI | 2022 | - | - |
+| [Corsets for Time Series Clustering](https://arxiv.org/pdf/2110.15263.pdf) | NeurIPS| 2021 | - | - |-|
 
 ## Time series Segmentation 
 |             Paper             | Conference | Year | Code | Used Datasets |Key Contribution|
@@ -155,4 +160,6 @@ These datasets are classified based on the following tasks.
 | [PSA-GAN: PROGRESSIVE SELF ATTENTION GANS FOR SYNTHETIC TIME SERIES](https://openreview.net/pdf?id=Ix_mh42xq5w) |  ICLR |2022 | [Code link](https://github.com/mbohlkeschneider/psa-gan), [Code on glueonts](https://github.com/awslabs/gluon-ts.) | Electricty, M4, Solar energy, Traffic | - |
 | [Generative Adversarial Networks for Markovian Temporal Dynamics: Stochastic Continuous Data Generation](https://proceedings.mlr.press/v139/park21d.html) | ICML | 2021 | [Code link]() | - |- |
 | [Discrete-time Temporal Network Embedding via Implicit Hierarchical Learning](https://dl.acm.org/doi/10.1145/3447548.3467422) |  KDD | 2021 |[Code link](https://github.com/marlin-codes/HTGN-KDD21) | - |- |
+| [Time-series Generation by Contrastive Imitation](https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=26999) | NeurIPS | 2021 | - | - |- |
+|[Adjusting for Autocorrelated Errors in Neural Networks for Time Series](https://arxiv.org/pdf/2101.12578.pdf)| NeurIPS | 2021 | [Code link](https://github.com/Daikon-Sun/AdjustAutocorrelation) | - |- |
 
