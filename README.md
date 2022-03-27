@@ -71,20 +71,20 @@ These datasets are classified based on the following tasks.
 | [CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting](https://arxiv.org/abs/2202.01575) | ICLR | 2022 | [Code link](https://github.com/salesforce/CoST) | [ETT](https://github.com/zhouhaoyi/ETDataset),[Electricity](https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014),[Weather](https://www.ncei.noaa.gov/data/local-climatological-data/) |- |
 | [REVERSIBLE INSTANCE NORMALIZATION FOR ACCURATE TIME-SERIES FORECASTING AGAINST DISTRIBUTION SHIFT](https://openreview.net/pdf?id=cGDAkQo1C0p) | ICLR | 2022 | - | [ETT](https://github.com/zhouhaoyi/ETDataset), [Electricity Consuming Load (ECL)](https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014) |- |
 | [TEMPORAL ALIGNMENT PREDICTION FOR SUPERVISED REPRESENTATION LEARNING AND FEW-SHOT SEQUENCE CLASSIFICATION](https://openreview.net/pdf?id=p3DKPQ7uaAi) | ICLR | 2022 | [Code link](https://github.com/BingSu12/TAP) | MSR Action3D, MSR Daily Activity3D, “Spoken Arabic Digits (SAD)” dataset, ChaLearn | - |
-| [Voice2Series: Reprogramming Acoustic Models for Time Series Classification](http://proceedings.mlr.press/v139/yang21j.html) | 2021 | ICML | [Code link](https://github.com/huckiyang/Voice2Series-Reprogramming) | - |- |
-| [Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting](https://proceedings.mlr.press/v139/chen21o.html) | 2021 | ICML | [Code link](https://github.com/Z-GCNETs/Z-GCNETs.git) | - |- |
-| [Explaining Time Series Predictions with Dynamic Masks](https://proceedings.mlr.press/v139/crabbe21a.html) | 2021 | ICML | [Code link](https://github.com/JonathanCrabbe/Dynamask) | - |- |
-| [End-to-End Learning of Coherent Probabilistic Forecasts for Hierarchical Time Series](https://proceedings.mlr.press/v139/rangapuram21a.html) | 2021 | ICML | [Code link](https://github.com/awslabs/gluon-ts) | - |- |
-| [Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting](https://proceedings.mlr.press/v139/rasul21a.html) | 2021 | ICML | - | - |- |
-| [Conformal prediction interval for dynamic time-series](https://proceedings.mlr.press/v139/xu21h.html) | 2021 | ICML | [Code link](https://github.com/hamrel-cxu/EnbPI) | - |- |
-| [RNN with Particle Flow for Probabilistic Spatio-temporal Forecasting](https://proceedings.mlr.press/v139/pal21b.html) | 2021 | ICML | [Code link]() | - |- |
-| [ST-Norm: Spatial and Temporal Normalization for Multi-variate Time Series Forecasting](https://dl.acm.org/doi/10.1145/3447548.3467330) | 2021 | KDD | [Code link](https://github.com/JLDeng/ST-Norm) | - |- |
-| [MiniRocket: A Fast (Almost) Deterministic Transform for Time Series Classification](https://dl.acm.org/doi/abs/10.1145/3447548.3467231) | 2021 | KDD | [Code link](https://github.com/angus924/minirocket) | - |- |
-| [Dynamic and Multi-faceted Spatio-temporal Deep Learning for Traffic Speed Forecasting](https://dl.acm.org/doi/10.1145/3447548.3467275)|2021|KDD|[Code link](https://github.com/liangzhehan/DMSTGCN)| - |- |
-| [Forecasting Interaction Order on Temporal Graphs](https://dl.acm.org/doi/10.1145/3447548.3467341)|2021|KDD| [Code link](https://github.com/xiawenwen49/TAT-code)|-|-|
-|[Quantifying Uncertainty in Deep Spatiotemporal Forecasting](https://dl.acm.org/doi/10.1145/3447548.3467325)| 2021 | KDD | - | - | - |
-|[Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting](https://dI.acm.org/doi/10.1145/3447548.3467430)|2021|KDD|[Code link](https://github.com/square-coder/STGODE)|-|-|
-|[A PLAN for Tackling the Locust Crisis in East Africa: Harnessing Spatiotemporal Deep Models for Locust Movement Forecasting](https://dI.acm.org/doi/10.1145/3447548.3467184)|2021|KDD|[Code link](https://github.com/maryam-tabar/PLAN)| - | - |
+| [Voice2Series: Reprogramming Acoustic Models for Time Series Classification](http://proceedings.mlr.press/v139/yang21j.html) | ICML |2021 |  [Code link](https://github.com/huckiyang/Voice2Series-Reprogramming) | - |- |
+| [Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting](https://proceedings.mlr.press/v139/chen21o.html) | ICML | 2021 | [Code link](https://github.com/Z-GCNETs/Z-GCNETs.git) | - |- |
+| [Explaining Time Series Predictions with Dynamic Masks](https://proceedings.mlr.press/v139/crabbe21a.html) | ICML |2021 |  [Code link](https://github.com/JonathanCrabbe/Dynamask) | - |- |
+| [End-to-End Learning of Coherent Probabilistic Forecasts for Hierarchical Time Series](https://proceedings.mlr.press/v139/rangapuram21a.html) |  ICML |2021 | [Code link](https://github.com/awslabs/gluon-ts) | - |- |
+| [Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting](https://proceedings.mlr.press/v139/rasul21a.html) | ICML |2021 |  - | - |- |
+| [Conformal prediction interval for dynamic time-series](https://proceedings.mlr.press/v139/xu21h.html) | ICML |2021 |  [Code link](https://github.com/hamrel-cxu/EnbPI) | - |- |
+| [RNN with Particle Flow for Probabilistic Spatio-temporal Forecasting](https://proceedings.mlr.press/v139/pal21b.html) | ICML |2021 |  [Code link]() | - |- |
+| [ST-Norm: Spatial and Temporal Normalization for Multi-variate Time Series Forecasting](https://dl.acm.org/doi/10.1145/3447548.3467330) |  KDD |2021 | [Code link](https://github.com/JLDeng/ST-Norm) | - |- |
+| [MiniRocket: A Fast (Almost) Deterministic Transform for Time Series Classification](https://dl.acm.org/doi/abs/10.1145/3447548.3467231) | KDD |2021 |  [Code link](https://github.com/angus924/minirocket) | - |- |
+| [Dynamic and Multi-faceted Spatio-temporal Deep Learning for Traffic Speed Forecasting](https://dl.acm.org/doi/10.1145/3447548.3467275)|KDD|2021|[Code link](https://github.com/liangzhehan/DMSTGCN)| - |- |
+| [Forecasting Interaction Order on Temporal Graphs](https://dl.acm.org/doi/10.1145/3447548.3467341)|KDD|2021| [Code link](https://github.com/xiawenwen49/TAT-code)|-|-|
+|[Quantifying Uncertainty in Deep Spatiotemporal Forecasting](https://dl.acm.org/doi/10.1145/3447548.3467325)| KDD|2021 | - | - | - |
+|[Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting](https://dI.acm.org/doi/10.1145/3447548.3467430)|KDD|2021|[Code link](https://github.com/square-coder/STGODE)|-|-|
+|[A PLAN for Tackling the Locust Crisis in East Africa: Harnessing Spatiotemporal Deep Models for Locust Movement Forecasting](https://dI.acm.org/doi/10.1145/3447548.3467184)|KDD|2021|[Code link](https://github.com/maryam-tabar/PLAN)| - | - |
 
 
 
@@ -96,7 +96,7 @@ These datasets are classified based on the following tasks.
 | [ShapeNet: A Shapelet-Neural Network Approach for Multivariate Time Series Classification](https://ojs.aaai.org/index.php/AAAI/article/view/17018) | AAAI | 2021 | [Code link](http://alturl.com/d26bo) | UEA MTS datasets | We propose Mdc-CNN to learn time series subsequences of various lengths into unified space and propose a cluster-wise triplet loss to train the network in an unsupervised fashion. We adopt MST to obtain the MST representation of time series. |
 | [Joint-Label Learning by Dual Augmentation for Time Series Classification](https://ojs.aaai.org/index.php/AAAI/article/view/17071) | AAAI | 2021 | [Code](https://github.com/fchollet/keras) | [UCR](https://www.cs.ucr.edu/˜eamonn/) | a novel time-series data augmentation method  |
 | [Explainable Multivariate Time Series Classification: A Deep Neural Network Which Learns To Attend To Important Variables As Well As Time Intervals](https://arxiv.org/pdf/2011.11631.pdf) | WSDM | 2021 | - | - |- |
-| [OMNI-SCALE CNNS: A SIMPLE AND EFFECTIVE KERNEL SIZE CONFIGURATION FOR TIME SERIES CLASSIFICATION](https://openreview.net/pdf?id=PDYs7Z2XFGv) | 2022 | ICLR | [Code link](https://github.com/Wensi-Tang/OS-CNN) | - |- |
+| [OMNI-SCALE CNNS: A SIMPLE AND EFFECTIVE KERNEL SIZE CONFIGURATION FOR TIME SERIES CLASSIFICATION](https://openreview.net/pdf?id=PDYs7Z2XFGv) | ICLR |2022 |  [Code link](https://github.com/Wensi-Tang/OS-CNN) | - |- |
 
 
 
@@ -114,13 +114,13 @@ These datasets are classified based on the following tasks.
 | [Outlier Impact Characterization for Time Series Data](https://par.nsf.gov/servlets/purl/10272499) | AAAI | 2021 | [benchmark](https://github.com/numenta/NAB) | [Webscope](http://labs.yahoo.com/Academic-Relations), [Physionet](https://physionet.org/content/chfdb/1.0.0/) | - |
 | [F-FADE: Frequency Factorization for Anomaly Detection in Edge Streams](https://arxiv.org/pdf/2011.04723.pdf) | WSDM | 2021 | [Code link](http://snap.stanford.edu/f-fade/) | - |- |
 | [FluxEV: A Fast and Effective Unsupervised Framework for Time-Series Anomaly Detection](https://dl.acm.org/doi/pdf/10.1145/3437963.3441823) | WSDM | 2021 | [Code link](https://github.com/DawnsonLi/EVT) | - |- |
-| [Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](https://arxiv.org/abs/2202.07857) | 2022 | ICLR | - | PMU-B, PMU-C, SWaT, METR-LA | - |
-| [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://arxiv.org/abs/2110.02642) | 2022 | ICLR | [Code link]() | - | - |
-| [Event Outlier Detection in Continuous Time](https://proceedings.mlr.press/v139/liu21g.html) | 2021 | ICML | [Code link](https://github.com/siqil/CPPOD) | - |- |
-| [Multivariate Time Series Anomaly Detection and Interpretation using Hierarchical Inter-Metric and Temporal Embedding](https://dl.acm.org/doi/10.1145/3447548.3467075) | 2021 | KDD | [Code link](https:/github.com/zhhlee/lnterFusion) | - |- |
-| [Practical Approach to Asynchronous Multi-variate Time Series Anomaly Detection and Localization](https://dl.acm.org/doi/10.1145/3447548.3467174) | 2021 | KDD | [Code link](https://github.com/eBay/RANSyncoders) | - |- |
-| [Time Series Anomaly Detection for Cyber-physical Systems via Neural System Identification and Bayesian Filtering](https://dl.acm.org/doi/10.1145/3447548.3467137) | 2021 | KDD | [Code link](https://github.com/NSIBF/NSIBF) | - |- |
-| [Multi-Scale One-Class Recurrent Neural Networks for Discrete Event Sequence Anomaly Detection](https://dl.acm.org/doi/10.1145/3447548.3467125) | 2021 | KDD | [Code link](https://github.com/wzwtrevor/Multi-Scale-One-Class-Recurrent-Neural-Networks) | - |- |
+| [Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](https://arxiv.org/abs/2202.07857) | ICLR |2022 |  - | PMU-B, PMU-C, SWaT, METR-LA | - |
+| [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://arxiv.org/abs/2110.02642) | ICLR |2022 |  [Code link]() | - | - |
+| [Event Outlier Detection in Continuous Time](https://proceedings.mlr.press/v139/liu21g.html) | ICML |2021 |  [Code link](https://github.com/siqil/CPPOD) | - |- |
+| [Multivariate Time Series Anomaly Detection and Interpretation using Hierarchical Inter-Metric and Temporal Embedding](https://dl.acm.org/doi/10.1145/3447548.3467075) |  KDD |2021 | [Code link](https:/github.com/zhhlee/lnterFusion) | - |- |
+| [Practical Approach to Asynchronous Multi-variate Time Series Anomaly Detection and Localization](https://dl.acm.org/doi/10.1145/3447548.3467174) | KDD |2021 |  [Code link](https://github.com/eBay/RANSyncoders) | - |- |
+| [Time Series Anomaly Detection for Cyber-physical Systems via Neural System Identification and Bayesian Filtering](https://dl.acm.org/doi/10.1145/3447548.3467137) |KDD | 2021 |  [Code link](https://github.com/NSIBF/NSIBF) | - |- |
+| [Multi-Scale One-Class Recurrent Neural Networks for Discrete Event Sequence Anomaly Detection](https://dl.acm.org/doi/10.1145/3447548.3467125) | KDD |2021 |  [Code link](https://github.com/wzwtrevor/Multi-Scale-One-Class-Recurrent-Neural-Networks) | - |- |
 
 
 ## Time series Clustering 
@@ -147,8 +147,8 @@ These datasets are classified based on the following tasks.
 | [Temporal Cross-Effects in Knowledge Tracing](https://dl.acm.org/doi/pdf/10.1145/3437963.3441802) | WSDM | 2021 | - | - |- |
 | [Learning Dynamic Embeddings for Temporal Knowledge Graphs](https://dl.acm.org/doi/pdf/10.1145/3437963.3441741) | WSDM | 2021 | - | - |- |
 | [Temporal Meta-path Guided Explainable Recommendation](https://arxiv.org/pdf/2101.01433.pdf) | WSDM | 2021 | - | - |- |
-| [FILLING THE G AP S: MULTIVARIATE TIME SERIES IMPUTATION BY GRAPH NEURAL NETWORKS](https://openreview.net/pdf?id=kOu3-S3wJ7) | 2022 | ICLR | - | Air quality, Traffic, and Smart Grids | - |
-| [PSA-GAN: PROGRESSIVE SELF ATTENTION GANS FOR SYNTHETIC TIME SERIES](https://openreview.net/pdf?id=Ix_mh42xq5w) | 2022 | ICLR | [Code link](https://github.com/mbohlkeschneider/psa-gan), [Code on glueonts](https://github.com/awslabs/gluon-ts.) | Electricty, M4, Solar energy, Traffic | - |
-| [Generative Adversarial Networks for Markovian Temporal Dynamics: Stochastic Continuous Data Generation](https://proceedings.mlr.press/v139/park21d.html) | 2021 | ICML | [Code link]() | - |- |
-| [Discrete-time Temporal Network Embedding via Implicit Hierarchical Learning](https://dl.acm.org/doi/10.1145/3447548.3467422) | 2021 | KDD | [Code link](https://github.com/marlin-codes/HTGN-KDD21) | - |- |
+| [FILLING THE G AP S: MULTIVARIATE TIME SERIES IMPUTATION BY GRAPH NEURAL NETWORKS](https://openreview.net/pdf?id=kOu3-S3wJ7) |  ICLR |2022 | - | Air quality, Traffic, and Smart Grids | - |
+| [PSA-GAN: PROGRESSIVE SELF ATTENTION GANS FOR SYNTHETIC TIME SERIES](https://openreview.net/pdf?id=Ix_mh42xq5w) |  ICLR |2022 | [Code link](https://github.com/mbohlkeschneider/psa-gan), [Code on glueonts](https://github.com/awslabs/gluon-ts.) | Electricty, M4, Solar energy, Traffic | - |
+| [Generative Adversarial Networks for Markovian Temporal Dynamics: Stochastic Continuous Data Generation](https://proceedings.mlr.press/v139/park21d.html) | ICML | 2021 | [Code link]() | - |- |
+| [Discrete-time Temporal Network Embedding via Implicit Hierarchical Learning](https://dl.acm.org/doi/10.1145/3447548.3467422) |  KDD | 2021 |[Code link](https://github.com/marlin-codes/HTGN-KDD21) | - |- |
 
