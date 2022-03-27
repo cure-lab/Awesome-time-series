@@ -87,7 +87,7 @@ These datasets are classified based on the following tasks.
 |[A PLAN for Tackling the Locust Crisis in East Africa: Harnessing Spatiotemporal Deep Models for Locust Movement Forecasting](https://dI.acm.org/doi/10.1145/3447548.3467184)|KDD|2021|[Code link](https://github.com/maryam-tabar/PLAN)| - | - |
 | [Topological Attention for Time Series Forecasting](https://arxiv.org/pdf/2107.09031v1.pdf) | NeurIPS | 2021 | [Code link](https://github.com/ElementAl/N-BEATS) | - | - |
 | [MixSeq: Connecting Macroscopic Time Series Forecasting with Microscopic Time Series Data](https://arxiv.org/pdf/2110.14354v1.pdf) | NeurIPS | 2021 | - | - | - |
-| [Test-time Collective Predictionh](ttps://arxiv.org/pdf/2106.12012v1.pdf) | NeurIPS | 2021 | - | - | - |
+| [Test-time Collective Prediction](https://arxiv.org/pdf/2106.12012v1.pdf) | NeurIPS | 2021 | - | - | - |
 | [Bubblewrap: Online tiling and real-time flow prediction on neural manifolds](https://arxiv.org/pdf/2108.13941v1.pdf) | NeurIPS | 2021 | [Code link](https://github.com/pearsonlab/Bubblewrap) | - | - |
 | [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://arxiv.org/pdf/2106.13008v2.pdf) | NeurIPS | 2021 | [Code link](https://github.com/thuml/Autoformer) | - | - |
 | [DeepFEC: Energy Consumption Prediction under Real-World Driving Conditions for Smart Cities]() | WWW | 2021| [Code link]() | - | - |
