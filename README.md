@@ -98,7 +98,15 @@ These datasets are classified based on the following tasks.
 | [REST: Reciprocal Framework for Spatiotemporal coupled predictions]() | WWW | 2021| [Code link]() | - | - |
 | [AutoSTG: Neural Architecture Search for Predictions of Spatio-Temporal Graph]() | WWW | 2021| [Code link]() | - | - |
 | [Fine-grained Urban Flow Prediction]() | WWW | 2021| [Code link]() | - | - |
-| []() | WWW | 2021| [Code link]() | - | - |
+| [Probabilistic Time Series Forecasting with Shape and Temporal Diversity](https://proceedings.neurips.cc/paper/2020/hash/2f2b265625d76a6704b08093c652fd79-Abstract.html) | NeurIPS | 2020| [Code link](https://github.com/vincent-leguen/STRIPE) | - | - |
+| [Benchmarking Deep Learning Interpretability in Time Series Predictions](https://proceedings.neurips.cc/paper/2020/hash/47a3893cc405396a5c30d91320572d6d-Abstract.html) | NeurIPS | 2020| [Code link](https://github.com/ayaabdelsalam91/TS-Interpretability-Benchmark) | - | - |
+| [Adversarial Sparse Transformer for Time Series Forecasting](https://proceedings.neurips.cc/paper/2020/hash/c6b8c8d762da15fa8dbbdfb6baf9e260-Abstract.html) | NeurIPS | 2020| - | - | - |
+| [Deep Rao-Blackwellised Particle Filters for Time Series Forecasting](https://proceedings.neurips.cc/paper/2020/hash/afb0b97df87090596ae7c503f60bb23f-Abstract.html) | NeurIPS | 2020| - | - | - |
+| [Gamma-Models: Generative Temporal Difference Learning for Infinite-Horizon Prediction](https://proceedings.neurips.cc/paper/2020/hash/12ffb0968f2f56e51a59a6beb37b2859-Abstract.html) | NeurIPS | 2020| - | - | - |
+| [EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning](https://proceedings.neurips.cc/paper/2020/hash/e4d8163c7a068b65a64c89bd745ec360-Abstract.html) | NeurIPS | 2020| - | - | - |
+| [Multi-agent Trajectory Prediction with Fuzzy Query Attention](https://proceedings.neurips.cc/paper/2020/hash/fe87435d12ef7642af67d9bc82a8b3cd-Abstract.html) | NeurIPS | 2020| [Code link](https://github.com/nitinkamra1992/FQA) | - | - |
+| []() | NeurIPS | 2020| [Code link]() | - | - |
+
 
 ## Time Series Classification 
 |             Paper             | Conference | Year | Code | Used Datasets |Key Contribution|
@@ -142,7 +150,9 @@ These datasets are classified based on the following tasks.
 | [Time-series Change Point Detection with Self-Supervised Contrastive Predictive Coding]() | WWW | 2021| [Code link]() | - | - |
 | [NTAM: Neighborhood-Temporal Attention Model for Disk Failure Prediction in Cloud Platforms]() | WWW | 2021| [Code link]() | - | - |
 | [One Detector to Rule Them All: Towards a General Deepfake Attack Detection Framework]() | WWW | 2021| [Code link]() | - | - |
-
+| [Timeseries Anomaly Detection using Temporal Hierarchical One-Class Network](https://proceedings.neurips.cc/paper/2020/hash/97e401a02082021fd24957f852e0e475-Abstract.html) | NeurIPS | 2020| - | - | - |
+| []() | NeurIPS | 2020| [Code link]() | - | - |
+| []() | NeurIPS | 2020| [Code link]() | - | - |
 
 
 
@@ -177,4 +187,7 @@ These datasets are classified based on the following tasks.
 | [Discrete-time Temporal Network Embedding via Implicit Hierarchical Learning](https://dl.acm.org/doi/10.1145/3447548.3467422) |  KDD | 2021 |[Code link](https://github.com/marlin-codes/HTGN-KDD21) | - |- |
 | [Time-series Generation by Contrastive Imitation](https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=26999) | NeurIPS | 2021 | - | - |- |
 |[Adjusting for Autocorrelated Errors in Neural Networks for Time Series](https://arxiv.org/pdf/2101.12578.pdf)| NeurIPS | 2021 | [Code link](https://github.com/Daikon-Sun/AdjustAutocorrelation) | - |- |
-
+| [Deep reconstruction of strange attractors from time series](https://proceedings.neurips.cc/paper/2020/hash/021bbc7ee20b71134d53e20206bd6feb-Abstract.html) | NeurIPS | 2020| [Code link](https://github.com/williamgilpin/fnn) | - | - |
+| [High-recall causal discovery for autocorrelated time series with latent confounders](https://proceedings.neurips.cc/paper/2020/hash/94e70705efae423efda1088614128d0b-Abstract.html) | NeurIPS | 2020| [Code link](https://github.com/jakobrunge/tigramite) | - | - |
+| [Learning Long-Term Dependencies in Irregularly-Sampled Time Series](https://arxiv.org/abs/2006.04418) | NeurIPS | 2020| [Code link](https://github.com/mlech26l/ode-lstms) | - | - |
+| [ARMA Nets: Expanding Receptive Field for Dense Prediction](https://proceedings.neurips.cc/paper/2020/hash/cd10c7f376188a4a2ca3e8fea2c03aeb-Abstract.html) | NeurIPS | 2020| [Code link](https://github.com/umd-huang-lab/ARMA-Networks) | - | - |
