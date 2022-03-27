@@ -105,7 +105,15 @@ These datasets are classified based on the following tasks.
 | [Gamma-Models: Generative Temporal Difference Learning for Infinite-Horizon Prediction](https://proceedings.neurips.cc/paper/2020/hash/12ffb0968f2f56e51a59a6beb37b2859-Abstract.html) | NeurIPS | 2020| - | - | - |
 | [EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning](https://proceedings.neurips.cc/paper/2020/hash/e4d8163c7a068b65a64c89bd745ec360-Abstract.html) | NeurIPS | 2020| - | - | - |
 | [Multi-agent Trajectory Prediction with Fuzzy Query Attention](https://proceedings.neurips.cc/paper/2020/hash/fe87435d12ef7642af67d9bc82a8b3cd-Abstract.html) | NeurIPS | 2020| [Code link](https://github.com/nitinkamra1992/FQA) | - | - |
-| []() | NeurIPS | 2020| [Code link]() | - | - |
+| [Set Functions for Time Series](http://proceedings.mlr.press/v119/horn20a.html) | ICML | 2020| [Code link](https://github.com/BorgwardtLab/Set_Functions_for_Time_Series) | - | - |
+| [Learning from Irregularly-Sampled Time Series: A Missing Data Perspective](http://proceedings.mlr.press/v119/li20k.html) | ICML | 2020| [Code link](https://github.com/steveli/partial-encoder-decoder) | - | - |
+| [Unsupervised Transfer Learning for Spatiotemporal Predictive Networks](http://proceedings.mlr.press/v119/yao20a.html) | ICML | 2020| [Code link](https://github.com/thuml/transferable-memory) | - | - |
+| [Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks](https://dl.acm.org/doi/10.1145/3394486.3403118) | KDD | 2020| [Code link](https://github.com/nnzhan/MTGNN) | - | - |
+| [Deep State-Space Generative Model For Correlated Time-to-Event Predictions](https://dl.acm.org/doi/10.1145/3394486.3403206) | KDD | 2020| [Code link](https://github.com/Google-Health/records-research/state-space-model) | - | - |
+| [Attention based multi-modal new product sales time-series forecasting](https://dl.acm.org/doi/10.1145/3394486.3403362) | KDD | 2020| - | - | - |
+| [BusTr: predicting bus travel times from real-time traffic](https://dl.acm.org/doi/10.1145/3394486.3403376) | KDD | 2020| - | - | - |
+| [CompactETA: A Fast Inference System for Travel Time Prediction](https://dl.acm.org/doi/10.1145/3394486.3403386) |KDD| 2020| - | - | - |
+| []() | KDD | 2020| [Code link]() | - | - |
 
 
 ## Time Series Classification 
@@ -151,7 +159,7 @@ These datasets are classified based on the following tasks.
 | [NTAM: Neighborhood-Temporal Attention Model for Disk Failure Prediction in Cloud Platforms]() | WWW | 2021| [Code link]() | - | - |
 | [One Detector to Rule Them All: Towards a General Deepfake Attack Detection Framework]() | WWW | 2021| [Code link]() | - | - |
 | [Timeseries Anomaly Detection using Temporal Hierarchical One-Class Network](https://proceedings.neurips.cc/paper/2020/hash/97e401a02082021fd24957f852e0e475-Abstract.html) | NeurIPS | 2020| - | - | - |
-| []() | NeurIPS | 2020| [Code link]() | - | - |
+| [USAD : UnSupervised Anomaly Detection on multivariate time series](https://dl.acm.org/doi/10.1145/3394486.3403392) | KDD | 2020| - | - | - |
 | []() | NeurIPS | 2020| [Code link]() | - | - |
 
 
@@ -161,6 +169,7 @@ These datasets are classified based on the following tasks.
 | :-------------------: | :----------: | :----------: | :------------------------: | ----------------------- |------ |
 | [Clustering Interval-Censored Time-Series for Disease Phenotyping](https://arxiv.org/abs/2102.07005v4) | AAAI | 2022 | - | - |
 | [Corsets for Time Series Clustering](https://arxiv.org/pdf/2110.15263.pdf) | NeurIPS| 2021 | - | - |-|
+| [Temporal Phenotyping using Deep Predictive Clustering of Disease Progression](http://proceedings.mlr.press/v119/lee20h.html) | ICML | 2020| [Code link](https://github.com/chl8856/AC_TPC) | - | - |
 
 ## Time series Segmentation 
 |             Paper             | Conference | Year | Code | Used Datasets |Key Contribution|
@@ -191,3 +200,8 @@ These datasets are classified based on the following tasks.
 | [High-recall causal discovery for autocorrelated time series with latent confounders](https://proceedings.neurips.cc/paper/2020/hash/94e70705efae423efda1088614128d0b-Abstract.html) | NeurIPS | 2020| [Code link](https://github.com/jakobrunge/tigramite) | - | - |
 | [Learning Long-Term Dependencies in Irregularly-Sampled Time Series](https://arxiv.org/abs/2006.04418) | NeurIPS | 2020| [Code link](https://github.com/mlech26l/ode-lstms) | - | - |
 | [ARMA Nets: Expanding Receptive Field for Dense Prediction](https://proceedings.neurips.cc/paper/2020/hash/cd10c7f376188a4a2ca3e8fea2c03aeb-Abstract.html) | NeurIPS | 2020| [Code link](https://github.com/umd-huang-lab/ARMA-Networks) | - | - |
+| [Learnable Group Transform For Time-Series](http://proceedings.mlr.press/v119/cosentino20a.html) | ICML | 2020| [Code link](https://github.com/Koldh/LearnableGroupTransform-TimeSeries) | - | - |
+| [Fast RobustSTL: Efficient and Robust Seasonal-Trend Decomposition for Time Series with Complex Patterns](https://dl.acm.org/doi/10.1145/3394486.3403271) | KDD | 2020| - | - | - |
+| [Matrix Profile XXI: A Geometric Approach to Time Series Chains Improves Robustness](https://dl.acm.org/doi/10.1145/3394486.3403164) | KDD | 2020| [Code link](https://sites.google.com/site/timeserieschains) | - | - |
+| [Multi-Source Deep Domain Adaptation with Weak Supervision for Time-Series Sensor Data](https://dl.acm.org/doi/10.1145/3394486.3403228) | KDD | 2020| [Code link](https://github.com/floft/codats) | - | - |
+| []() | ICML | 2020| [Code link]() | - | - |
