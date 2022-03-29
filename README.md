@@ -169,7 +169,8 @@ These datasets are classified based on the following tasks.
 | [Timeseries Anomaly Detection using Temporal Hierarchical One-Class Network](https://proceedings.neurips.cc/paper/2020/hash/97e401a02082021fd24957f852e0e475-Abstract.html) | NeurIPS | 2020| - | - | - |
 | [USAD : UnSupervised Anomaly Detection on multivariate time series](https://dl.acm.org/doi/10.1145/3394486.3403392) | KDD | 2020| - | - | - |
 | [Application Performance Anomaly Detection with LSTM on Temporal Irregularities in Logs]() | CIKM | 2020| [Code link]() | - | - |
-
+| [Multivariate Time-series Anomaly Detection via Graph Attention Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338317) | ICDM | 2020| [Code link]() | - | - |
+| []() | ICDM | 2020| [Code link]() | - | - |
 
 
 ## Time series Clustering 
@@ -214,6 +215,6 @@ These datasets are classified based on the following tasks.
 | [Multi-Source Deep Domain Adaptation with Weak Supervision for Time-Series Sensor Data](https://dl.acm.org/doi/10.1145/3394486.3403228) | KDD | 2020| [Code link](https://github.com/floft/codats) | - | - |
 | [Personalized Imputation on Wearable-Sensory Time Series via Knowledge Transfer](https://dl.acm.org/doi/pdf/10.1145/3340531.3411879) | CIKM | 2020| [Code link]() | - | - |
 | [Hybrid Sequential Recommender via Time-aware Attentive Memory Network](https://dl.acm.org/doi/pdf/10.1145/3340531.3411869) | CIKM | 2020| [Code link]() | - | - |
-| []() | CIKM | 2020| [Code link]() | - | - |
-| []() | CIKM | 2020| [Code link]() | - | - |
-| []() | CIKM | 2020| [Code link]() | - | - |
+| [Order-Preserving Metric Learning for Mining Multivariate Time Series](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338310) | ICDM | 2020| [Code link]() | - | - |
+| []() | ICDM | 2020| [Code link]() | - | - |
+| []() | ICDM | 2020| [Code link]() | - | - |
