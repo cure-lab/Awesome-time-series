@@ -113,8 +113,10 @@ These datasets are classified based on the following tasks.
 | [Attention based multi-modal new product sales time-series forecasting](https://dl.acm.org/doi/10.1145/3394486.3403362) | KDD | 2020| - | - | - |
 | [BusTr: predicting bus travel times from real-time traffic](https://dl.acm.org/doi/10.1145/3394486.3403376) | KDD | 2020| - | - | - |
 | [CompactETA: A Fast Inference System for Travel Time Prediction](https://dl.acm.org/doi/10.1145/3394486.3403386) |KDD| 2020| - | - | - |
-| []() | KDD | 2020| [Code link]() | - | - |
-
+| [DATSING: Data Augmented Time Series Forecasting with Adversarial Domain Adaptation]() | CIKM | 2020| [Code link]() | - | - |
+| []() | CIKM | 2020| [Code link]() | - | - |
+| []() | CIKM | 2020| [Code link]() | - | - |
+| []() | CIKM | 2020| [Code link]() | - | - |
 
 ## Time Series Classification 
 |             Paper             | Conference | Year | Code | Used Datasets |Key Contribution|
@@ -125,7 +127,12 @@ These datasets are classified based on the following tasks.
 | [ShapeNet: A Shapelet-Neural Network Approach for Multivariate Time Series Classification](https://ojs.aaai.org/index.php/AAAI/article/view/17018) | AAAI | 2021 | [Code link](http://alturl.com/d26bo) | UEA MTS datasets | We propose Mdc-CNN to learn time series subsequences of various lengths into unified space and propose a cluster-wise triplet loss to train the network in an unsupervised fashion. We adopt MST to obtain the MST representation of time series. |
 | [Joint-Label Learning by Dual Augmentation for Time Series Classification](https://ojs.aaai.org/index.php/AAAI/article/view/17071) | AAAI | 2021 | [Code](https://github.com/fchollet/keras) | [UCR](https://www.cs.ucr.edu/˜eamonn/) | a novel time-series data augmentation method  |
 | [Explainable Multivariate Time Series Classification: A Deep Neural Network Which Learns To Attend To Important Variables As Well As Time Intervals](https://arxiv.org/pdf/2011.11631.pdf) | WSDM | 2021 | - | - |- |
-
+| [Imbalanced Time Series Classification for Flight Data Analyzing with Nonlinear Granger Causality Learning](https://dl.acm.org/doi/pdf/10.1145/3340531.3412710) | CIKM | 2020| [Code link]() | - | - |
+| [Visualet: Visualizing Shapelets for Time Series Classification](https://dl.acm.org/doi/pdf/10.1145/3340531.3417414) | CIKM | 2020| [Code link]() | - | - |
+| [Learning Discriminative Virtual Sequences for Time Series Classification](https://dl.acm.org/doi/pdf/10.1145/3340531.3412099) | CIKM | 2020| [Code link]() | - | - |
+| []() | CIKM | 2020| [Code link]() | - | - |
+| []() | CIKM | 2020| [Code link]() | - | - |
+| []() | CIKM | 2020| [Code link]() | - | - |
 
 
 
@@ -161,7 +168,7 @@ These datasets are classified based on the following tasks.
 | [One Detector to Rule Them All: Towards a General Deepfake Attack Detection Framework]() | WWW | 2021| [Code link]() | - | - |
 | [Timeseries Anomaly Detection using Temporal Hierarchical One-Class Network](https://proceedings.neurips.cc/paper/2020/hash/97e401a02082021fd24957f852e0e475-Abstract.html) | NeurIPS | 2020| - | - | - |
 | [USAD : UnSupervised Anomaly Detection on multivariate time series](https://dl.acm.org/doi/10.1145/3394486.3403392) | KDD | 2020| - | - | - |
-| []() | NeurIPS | 2020| [Code link]() | - | - |
+| [Application Performance Anomaly Detection with LSTM on Temporal Irregularities in Logs]() | CIKM | 2020| [Code link]() | - | - |
 
 
 
@@ -205,4 +212,8 @@ These datasets are classified based on the following tasks.
 | [Fast RobustSTL: Efficient and Robust Seasonal-Trend Decomposition for Time Series with Complex Patterns](https://dl.acm.org/doi/10.1145/3394486.3403271) | KDD | 2020| - | - | - |
 | [Matrix Profile XXI: A Geometric Approach to Time Series Chains Improves Robustness](https://dl.acm.org/doi/10.1145/3394486.3403164) | KDD | 2020| [Code link](https://sites.google.com/site/timeserieschains) | - | - |
 | [Multi-Source Deep Domain Adaptation with Weak Supervision for Time-Series Sensor Data](https://dl.acm.org/doi/10.1145/3394486.3403228) | KDD | 2020| [Code link](https://github.com/floft/codats) | - | - |
-| []() | ICML | 2020| [Code link]() | - | - |
+| [Personalized Imputation on Wearable-Sensory Time Series via Knowledge Transfer](https://dl.acm.org/doi/pdf/10.1145/3340531.3411879) | CIKM | 2020| [Code link]() | - | - |
+| [Hybrid Sequential Recommender via Time-aware Attentive Memory Network](https://dl.acm.org/doi/pdf/10.1145/3340531.3411869) | CIKM | 2020| [Code link]() | - | - |
+| []() | CIKM | 2020| [Code link]() | - | - |
+| []() | CIKM | 2020| [Code link]() | - | - |
+| []() | CIKM | 2020| [Code link]() | - | - |
