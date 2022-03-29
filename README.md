@@ -114,7 +114,7 @@ These datasets are classified based on the following tasks.
 | [BusTr: predicting bus travel times from real-time traffic](https://dl.acm.org/doi/10.1145/3394486.3403376) | KDD | 2020| - | - | - |
 | [CompactETA: A Fast Inference System for Travel Time Prediction](https://dl.acm.org/doi/10.1145/3394486.3403386) |KDD| 2020| - | - | - |
 | [DATSING: Data Augmented Time Series Forecasting with Adversarial Domain Adaptation]() | CIKM | 2020| [Code link]() | - | - |
-| []() | CIKM | 2020| [Code link]() | - | - |
+| [Dual Sequential Network for Temporal Sets Prediction](https://dl.acm.org/doi/pdf/10.1145/3397271.3401124) | SIGIR | 2020| [Code link]() | - | - |
 | []() | CIKM | 2020| [Code link]() | - | - |
 | []() | CIKM | 2020| [Code link]() | - | - |
 
@@ -130,7 +130,7 @@ These datasets are classified based on the following tasks.
 | [Imbalanced Time Series Classification for Flight Data Analyzing with Nonlinear Granger Causality Learning](https://dl.acm.org/doi/pdf/10.1145/3340531.3412710) | CIKM | 2020| [Code link]() | - | - |
 | [Visualet: Visualizing Shapelets for Time Series Classification](https://dl.acm.org/doi/pdf/10.1145/3340531.3417414) | CIKM | 2020| [Code link]() | - | - |
 | [Learning Discriminative Virtual Sequences for Time Series Classification](https://dl.acm.org/doi/pdf/10.1145/3340531.3412099) | CIKM | 2020| [Code link]() | - | - |
-| []() | CIKM | 2020| [Code link]() | - | - |
+| [Fast and Accurate Time Series Classification Through Supervised Interval Search](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338332) | CIKM | 2020| [Code link]() | - | - |
 | []() | CIKM | 2020| [Code link]() | - | - |
 | []() | CIKM | 2020| [Code link]() | - | - |
 
@@ -170,8 +170,9 @@ These datasets are classified based on the following tasks.
 | [USAD : UnSupervised Anomaly Detection on multivariate time series](https://dl.acm.org/doi/10.1145/3394486.3403392) | KDD | 2020| - | - | - |
 | [Application Performance Anomaly Detection with LSTM on Temporal Irregularities in Logs]() | CIKM | 2020| [Code link]() | - | - |
 | [Multivariate Time-series Anomaly Detection via Graph Attention Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338317) | ICDM | 2020| [Code link]() | - | - |
+| [MERLIN: Parameter-Free Discovery of Arbitrary Length Anomalies in Massive Time Series Archives](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338376) | ICDM | 2020| [Code link]() | - | - |
 | []() | ICDM | 2020| [Code link]() | - | - |
-
+| []() | ICDM | 2020| [Code link]() | - | - |
 
 ## Time series Clustering 
 |             Paper             | Conference | Year | Code | Used Datasets |Key Contribution|
@@ -216,5 +217,11 @@ These datasets are classified based on the following tasks.
 | [Personalized Imputation on Wearable-Sensory Time Series via Knowledge Transfer](https://dl.acm.org/doi/pdf/10.1145/3340531.3411879) | CIKM | 2020| [Code link]() | - | - |
 | [Hybrid Sequential Recommender via Time-aware Attentive Memory Network](https://dl.acm.org/doi/pdf/10.1145/3340531.3411869) | CIKM | 2020| [Code link]() | - | - |
 | [Order-Preserving Metric Learning for Mining Multivariate Time Series](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338310) | ICDM | 2020| [Code link]() | - | - |
-| []() | ICDM | 2020| [Code link]() | - | - |
-| []() | ICDM | 2020| [Code link]() | - | - |
+| [Fast Automatic Feature Selection for Multi-period Sliding Window Aggregate in Time Series](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338337) | ICDM | 2020| [Code link]() | - | - |
+| [Matrix Profile XXII: Exact Discovery of Time Series Motifs Under DTW](https://ieeexplore.ieee.org/document/9338266) | ICDM | 2020| [Code link]() | - | - |
+| [Inductive Granger Causal Modeling for Multivariate Time Series](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338381) | ICDM | 2020 | [Code link]() | - | - |
+| [Mining Recurring Patterns in Real-Valued Time Series using the Radius Profile](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338407) | ICDM | 2020 | [Code link]() | - | - |
+| [Learning Periods from Incomplete Multivariate Time Series](cs.albany.edu/~petko/lab/papers/zgzb2020icdm.pdf) | ICDM | 2020 | [Code link]() | - | - |
+| [FilCorr: Filtered and Lagged Correlation on Streaming Time Series](https://ieeexplore.ieee.org/document/9338257) | ICDM | 2020 | [Code link]() | - | - |
+| []() | ICDM | 2020 | [Code link]() | - | - |
+
