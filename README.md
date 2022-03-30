@@ -220,16 +220,16 @@ These datasets are classified based on the following tasks.
 | [Discrete-time Temporal Network Embedding via Implicit Hierarchical Learning](https://dl.acm.org/doi/10.1145/3447548.3467422) |  KDD | 2021 |[Code link](https://github.com/marlin-codes/HTGN-KDD21) | - |- |
 | [Time-series Generation by Contrastive Imitation](https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=26999) | NeurIPS | 2021 | - | - |- |
 |[Adjusting for Autocorrelated Errors in Neural Networks for Time Series](https://arxiv.org/pdf/2101.12578.pdf)| NeurIPS | 2021 | [Code link](https://github.com/Daikon-Sun/AdjustAutocorrelation) | - |- |
-| [Spikelet: An Adaptive Symbolic Approximation for Finding Higher-Level Structure in Time Series]() |  ICDM | 2021 | [Code link]() | - | - |
-| [STING: Self-attention based Time-series Imputation Networks using GAN]() |  ICDM | 2021 | [Code link]() | - | - |
-| [SMATE: Semi-Supervised Spatio-Temporal Representation Learning on Multivariate Time Series]() |  ICDM | 2021 | [Code link]() | - | - |
-| [TCube: Domain-Agnostic Neural Time-series Narration]() |  ICDM | 2021 | [Code link]() | - | - |
-| [Towards Interpretability and Personalization: A Predictive Framework for Clinical Time-series Analysis]() |  ICDM | 2021 | [Code link]() | - | - |
-| [Continual Learning for Multivariate Time Series Tasks with Variable Input Dimensions]() |  ICDM | 2021 | [Code link]() | - | - |
-| [CASPITA: Mining Statistically Significant Paths in Time Series Data from an Unknown Network]() |  ICDM | 2021 | [Code link]() | - | - |
-| [Multi-way Time Series Join on Multi-length Patterns]() |  ICDM | 2021 | [Code link]() | - | - |
-| [Temporal Event Profiling based on Multivariate Time Series Analysis over Long-term Document Archives]() |  SIGIR | 2021 | [Code link]() | - | - |
-| [Time-Aware Multi-Scale RNNs for Time Series Modeling]() |  ICDM | 2021 | [Code link]() | - | - |
+| [Spikelet: An Adaptive Symbolic Approximation for Finding Higher-Level Structure in Time Series](https://ieeexplore.ieee.org/document/9679141) |  ICDM | 2021 | - | - | - |
+| [STING: Self-attention based Time-series Imputation Networks using GAN](https://ieeexplore.ieee.org/document/9679183) |  ICDM | 2021 | [Code link]() | - | - |
+| [SMATE: Semi-Supervised Spatio-Temporal Representation Learning on Multivariate Time Series](https://arxiv.org/pdf/2110.00578.pdf) |  ICDM | 2021 | [Code link]() | - | - |
+| [TCube: Domain-Agnostic Neural Time-series Narration](https://arxiv.org/pdf/2110.05633.pdf) |  ICDM | 2021 | [Code link]() | - | - |
+| [Towards Interpretability and Personalization: A Predictive Framework for Clinical Time-series Analysis](https://ieeexplore.ieee.org/document/9679181) |  ICDM | 2021 | [Code link]() | - | - |
+| [Continual Learning for Multivariate Time Series Tasks with Variable Input Dimensions](https://arxiv.org/pdf/2203.06852.pdf) |  ICDM | 2021 | [Code link]() | - | - |
+| [CASPITA: Mining Statistically Significant Paths in Time Series Data from an Unknown Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679098) |  ICDM | 2021 | [Code link]() | - | - |
+| [Multi-way Time Series Join on Multi-length Patterns](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679018) |  ICDM | 2021 | [Code link]() | - | - |
+| [Temporal Event Profiling based on Multivariate Time Series Analysis over Long-term Document Archives](https://link.springer.com/content/pdf/10.1186/s13059-015-0639-8.pdf) |  SIGIR | 2021 | [Code link]() | - | - |
+| [Time-Aware Multi-Scale RNNs for Time Series Modeling](https://www.ijcai.org/proceedings/2021/0315.pdf) |  ICDM | 2021 | [Code link]() | - | - |
 | [Deep reconstruction of strange attractors from time series](https://proceedings.neurips.cc/paper/2020/hash/021bbc7ee20b71134d53e20206bd6feb-Abstract.html) | NeurIPS | 2020| [Code link](https://github.com/williamgilpin/fnn) | - | - |
 | [High-recall causal discovery for autocorrelated time series with latent confounders](https://proceedings.neurips.cc/paper/2020/hash/94e70705efae423efda1088614128d0b-Abstract.html) | NeurIPS | 2020| [Code link](https://github.com/jakobrunge/tigramite) | - | - |
 | [Learning Long-Term Dependencies in Irregularly-Sampled Time Series](https://arxiv.org/abs/2006.04418) | NeurIPS | 2020| [Code link](https://github.com/mlech26l/ode-lstms) | - | - |
