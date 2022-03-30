@@ -75,20 +75,32 @@ These datasets are classified based on the following tasks.
 | [Explaining Time Series Predictions with Dynamic Masks](https://proceedings.mlr.press/v139/crabbe21a.html) | ICML |2021 |  [Code link](https://github.com/JonathanCrabbe/Dynamask) | MIMIC-III | These masks are endowed with an insightful information theoretic interpretation and offer a neat improvement in terms of performance. |
 | [End-to-End Learning of Coherent Probabilistic Forecasts for Hierarchical Time Series](https://proceedings.mlr.press/v139/rangapuram21a.html) |  ICML |2021 | [Code link](https://github.com/awslabs/gluon-ts) | Labour, Traffic, Tourism, Tourism-L, and Wiki | a single, global model that does not require any adjustments to produce coherent, probabilistic forecasts, a first of its kind. |
 | [Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting](https://proceedings.mlr.press/v139/rasul21a.html) | ICML |2021 | [Code link](https://github.com/zalandoresearch/pytorch-ts) | [Exchange, Solar and Electricity](https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014),  [Traffic](https://archive.ics.uci.edu/ml/datasets/PEMS-SF), [Taxi](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page) and [Wikipedia](https://github.com/mbohlkeschneider/gluon-ts/tree/mv_release/datasets) | a combination of improved variance schedule and an L1 loss to allow sampling with fewer steps at the cost of a small reduction in quality if such a trade-off is required. |
-| [Conformal prediction interval for dynamic time-series](https://proceedings.mlr.press/v139/xu21h.html) | ICML |2021 |  [Code link](https://github.com/hamrel-cxu/EnbPI) | - |- |
-| [RNN with Particle Flow for Probabilistic Spatio-temporal Forecasting](https://proceedings.mlr.press/v139/pal21b.html) | ICML |2021 |  [Code link]() | - |- |
-| [ST-Norm: Spatial and Temporal Normalization for Multi-variate Time Series Forecasting](https://dl.acm.org/doi/10.1145/3447548.3467330) |  KDD |2021 | [Code link](https://github.com/JLDeng/ST-Norm) | - |- |
-| [MiniRocket: A Fast (Almost) Deterministic Transform for Time Series Classification](https://dl.acm.org/doi/abs/10.1145/3447548.3467231) | KDD |2021 |  [Code link](https://github.com/angus924/minirocket) | - |- |
-| [Dynamic and Multi-faceted Spatio-temporal Deep Learning for Traffic Speed Forecasting](https://dl.acm.org/doi/10.1145/3447548.3467275)|KDD|2021|[Code link](https://github.com/liangzhehan/DMSTGCN)| - |- |
-| [Forecasting Interaction Order on Temporal Graphs](https://dl.acm.org/doi/10.1145/3447548.3467341)|KDD|2021| [Code link](https://github.com/xiawenwen49/TAT-code)|-|-|
-|[Quantifying Uncertainty in Deep Spatiotemporal Forecasting](https://dl.acm.org/doi/10.1145/3447548.3467325)| KDD|2021 | - | - | - |
-|[Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting](https://dI.acm.org/doi/10.1145/3447548.3467430)|KDD|2021|[Code link](https://github.com/square-coder/STGODE)|-|-|
-|[A PLAN for Tackling the Locust Crisis in East Africa: Harnessing Spatiotemporal Deep Models for Locust Movement Forecasting](https://dI.acm.org/doi/10.1145/3447548.3467184)|KDD|2021|[Code link](https://github.com/maryam-tabar/PLAN)| - | - |
-| [Topological Attention for Time Series Forecasting](https://arxiv.org/pdf/2107.09031v1.pdf) | NeurIPS | 2021 | [Code link](https://github.com/ElementAl/N-BEATS) | - | - |
-| [MixSeq: Connecting Macroscopic Time Series Forecasting with Microscopic Time Series Data](https://arxiv.org/pdf/2110.14354v1.pdf) | NeurIPS | 2021 | - | - | - |
-| [Test-time Collective Prediction](https://arxiv.org/pdf/2106.12012v1.pdf) | NeurIPS | 2021 | - | - | - |
+| [Conformal prediction interval for dynamic time-series](https://proceedings.mlr.press/v139/xu21h.html) | ICML |2021 |  [Code link](https://github.com/hamrel-cxu/EnbPI) | solar and wind energy data | present a predictive inference method for dynamic time-series. |
+| [RNN with Particle Flow for Probabilistic Spatio-temporal Forecasting](https://proceedings.mlr.press/v139/pal21b.html) | ICML |2021 | - | PeMSD3, PeMSD4, PeMSD7 and PeMSD8 | - |
+| [ST-Norm: Spatial and Temporal Normalization for Multi-variate Time Series Forecasting](https://dl.acm.org/doi/pdf/10.1145/3447548.3467330) |  KDD |2021 | [Code link](https://github.com/JLDeng/ST-Norm) | BikeNYC, PeMSD7 and Electricity |- |
+| [MiniRocket: A Fast (Almost) Deterministic Transform for Time Series Classification](https://dl.acm.org/doi/pdf/10.1145/3447548.3467231) | KDD |2021 |  [Code link](https://github.com/angus924/minirocket) | UCR archive |- |
+| [Dynamic and Multi-faceted Spatio-temporal Deep Learning for Traffic Speed Forecasting](https://dl.acm.org/doi/pdf/10.1145/3447548.3467275)|KDD|2021|[Code link](https://github.com/liangzhehan/DMSTGCN)| PeMSD4, PeMSD8 and England | - |
+| [Forecasting Interaction Order on Temporal Graphs](https://dl.acm.org/doi/pdf/10.1145/3447548.3467341)|KDD|2021| [Code link](https://github.com/xiawenwen49/TAT-code)| COLLEGEMSG, EMAIL-EU and FBWALL |-|
+|[Quantifying Uncertainty in Deep Spatiotemporal Forecasting](https://dl.acm.org/doi/pdf/10.1145/3447548.3467325)| KDD | 2021 | - | air quality PM2.5, road network traffic, and COVID-19 incident deaths | - |
+|[Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting](https://dI.acm.org/doi/pdf/10.1145/3447548.3467430)|KDD| 2021 |[Code link](https://github.com/square-coder/STGODE)|-|-|
+|[A PLAN for Tackling the Locust Crisis in East Africa: Harnessing Spatiotemporal Deep Models for Locust Movement Forecasting](https://dI.acm.org/doi/pdf/10.1145/3447548.3467184)|KDD|2021|[Code link](https://github.com/maryam-tabar/PLAN)| - | - |
+| [Topological Attention for Time Series Forecasting](https://arxiv.org/pdf/2107.09031v1.pdf) | NeurIPS | 2021 | [Code link](https://github.com/ElementAl/N-BEATS) | [M4 competition dataset](https://github.com/Mcompetitions/M4-methods) | - |
+| [MixSeq: Connecting Macroscopic Time Series Forecasting with Microscopic Time Series Data](https://arxiv.org/pdf/2110.14354v1.pdf) | NeurIPS | 2021 | - | [Rossmann](https://www.kaggle.com/c/rossmann-store-sales), Wiki and [M5](https://www.kaggle.com/c/m5-forecasting-accuracy) | - |
+| [Test-time Collective Prediction](https://arxiv.org/pdf/2106.12012v1.pdf) | NeurIPS | 2021 | - | Boston...... | - |
 | [Bubblewrap: Online tiling and real-time flow prediction on neural manifolds](https://arxiv.org/pdf/2108.13941v1.pdf) | NeurIPS | 2021 | [Code link](https://github.com/pearsonlab/Bubblewrap) | - | - |
-| [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://arxiv.org/pdf/2106.13008v2.pdf) | NeurIPS | 2021 | [Code link](https://github.com/thuml/Autoformer) | - | - |
+| [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://arxiv.org/pdf/2106.13008v2.pdf) | NeurIPS | 2021 | [Code link](https://github.com/thuml/Autoformer) | ETT, Electricity, Exchange, and Traffic | - |
+
+
+| [Learning to Learn the Future: Modeling Concept Drifts in Time Series Prediction]() |  CIKM | 2021 | [Code link]() | - | - |
+| [AdaRNN: Adaptive Learning and Forecasting of Time Series]() |  CIKM | 2021 | [Code link]() | - | - |
+| [Actionable Insights in Urban Multivariate Time-series]() |  CIKM | 2021 | [Code link]() | - | - |
+| [Historical Inertia: A Neglected but Powerful Baseline for Long Sequence Time-series Forecasting]() |  CIKM | 2021 | [Code link]() | - | - |
+| [AGCNT: Adaptive Graph Convolutional Network for Transformer-based Long Sequence Time-Series Forecasting]() |  CIKM | 2021 | [Code link]() | - | - |
+| [PIETS: Parallelised Irregularity Encoders for Forecasting with Heterogeneous Time-Series]() |  ICDM | 2021 | [Code link]() | - | - |
+| [Attentive Neural Controlled Differential Equations for Time-series Classification and Forecasting]() |  ICDM | 2021 | [Code link]() | - | - |
+| [SSDNet: State Space Decomposition Neural Network for Time Series Forecasting]() |  ICDM | 2021 | [Code link]() | - | - |
+| [Two Birds with One Stone: Series Saliency for Accurate and Interpretable Multivariate Time Series Forecasting]() |  IJCAI | 2021 | [Code link]() | - | - |
+| [TE-ESN: Time Encoding Echo State Network for Prediction Based on Irregularly Sampled Time Series Data]() |  IJCAI | 2021 | [Code link]() | - | - |
 | [DeepFEC: Energy Consumption Prediction under Real-World Driving Conditions for Smart Cities]() | WWW | 2021| [Code link]() | - | - |
 | [HINTS: Citation Time Series Prediction for New Publications viaDynamic Heterogeneous Information Network Embedding]() | WWW | 2021| [Code link]() | - | - |
 | [Bid Prediction in Repeated Auctions with Learning]() | WWW | 2021| [Code link]() | - | - |
@@ -114,8 +126,6 @@ These datasets are classified based on the following tasks.
 | [CompactETA: A Fast Inference System for Travel Time Prediction](https://dl.acm.org/doi/10.1145/3394486.3403386) |KDD| 2020| - | - | - |
 | [DATSING: Data Augmented Time Series Forecasting with Adversarial Domain Adaptation]() | CIKM | 2020| [Code link]() | - | - |
 | [Dual Sequential Network for Temporal Sets Prediction](https://dl.acm.org/doi/pdf/10.1145/3397271.3401124) | SIGIR | 2020| [Code link]() | - | - |
-| []() | CIKM | 2020| [Code link]() | - | - |
-| []() | CIKM | 2020| [Code link]() | - | - |
 
 
 
@@ -129,12 +139,14 @@ These datasets are classified based on the following tasks.
 | [Joint-Label Learning by Dual Augmentation for Time Series Classification](https://ojs.aaai.org/index.php/AAAI/article/view/17071) | AAAI | 2021 | [Code](https://github.com/fchollet/keras) | [UCR](https://www.cs.ucr.edu/˜eamonn/) | a novel time-series data augmentation method  |
 | [Explainable Multivariate Time Series Classification: A Deep Neural Network Which Learns To Attend To Important Variables As Well As Time Intervals](https://arxiv.org/pdf/2011.11631.pdf) | WSDM | 2021 | - | - |- |
 | [Voice2Series: Reprogramming Acoustic Models for Time Series Classification](http://proceedings.mlr.press/v139/yang21j.html) | ICML |2021 |  [Code link](https://github.com/huckiyang/Voice2Series-Reprogramming) | - |- |
+| [Learning Saliency Maps to Explain Deep Time Series Classifiers]() |  CIKM | 2021 | [Code link]() | - | - |
+| [Gaussian Process Model Learning for Time Series Classification]() |  ICDM | 2021 | [Code link]() | - | - |
+| [Contrast Profile: A Novel Time Series Primitive that Allows Classification in Real World Settings]() |  ICDM | 2021 | [Code link]() | - | - |
+| [Attentive Neural Controlled Differential Equations for Time-series Classification and Forecasting]() |  ICDM | 2021 | [Code link]() | - | - |
 | [Imbalanced Time Series Classification for Flight Data Analyzing with Nonlinear Granger Causality Learning](https://dl.acm.org/doi/pdf/10.1145/3340531.3412710) | CIKM | 2020| [Code link]() | - | - |
 | [Visualet: Visualizing Shapelets for Time Series Classification](https://dl.acm.org/doi/pdf/10.1145/3340531.3417414) | CIKM | 2020| [Code link]() | - | - |
 | [Learning Discriminative Virtual Sequences for Time Series Classification](https://dl.acm.org/doi/pdf/10.1145/3340531.3412099) | CIKM | 2020| [Code link]() | - | - |
 | [Fast and Accurate Time Series Classification Through Supervised Interval Search](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338332) | CIKM | 2020| [Code link]() | - | - |
-| []() | CIKM | 2020| [Code link]() | - | - |
-| []() | CIKM | 2020| [Code link]() | - | - |
 
 
 
@@ -168,13 +180,13 @@ These datasets are classified based on the following tasks.
 | [Time-series Change Point Detection with Self-Supervised Contrastive Predictive Coding]() | WWW | 2021| [Code link]() | - | - |
 | [NTAM: Neighborhood-Temporal Attention Model for Disk Failure Prediction in Cloud Platforms]() | WWW | 2021| [Code link]() | - | - |
 | [One Detector to Rule Them All: Towards a General Deepfake Attack Detection Framework]() | WWW | 2021| [Code link]() | - | - |
+| [Improving Irregularly Sampled Time Series Learning with Time-Aware Dual-Attention Memory-Augmented Networks]() |  CIKM | 2021 | [Code link]() | - | - |
+| [BiCMTS: Bidirectional Coupled Multivariate Learning of Irregular Time Series with Missing Values]() |  CIKM | 2021 | [Code link]() | - | - |
 | [Timeseries Anomaly Detection using Temporal Hierarchical One-Class Network](https://proceedings.neurips.cc/paper/2020/hash/97e401a02082021fd24957f852e0e475-Abstract.html) | NeurIPS | 2020| - | - | - |
 | [USAD : UnSupervised Anomaly Detection on multivariate time series](https://dl.acm.org/doi/10.1145/3394486.3403392) | KDD | 2020| - | - | - |
 | [Application Performance Anomaly Detection with LSTM on Temporal Irregularities in Logs]() | CIKM | 2020| [Code link]() | - | - |
 | [Multivariate Time-series Anomaly Detection via Graph Attention Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338317) | ICDM | 2020| [Code link]() | - | - |
 | [MERLIN: Parameter-Free Discovery of Arbitrary Length Anomalies in Massive Time Series Archives](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338376) | ICDM | 2020| [Code link]() | - | - |
-| []() | ICDM | 2020| [Code link]() | - | - |
-| []() | ICDM | 2020| [Code link]() | - | - |
 
 ## Time series Clustering 
 |             Paper             | Conference | Year | Code | Used Datasets |Key Contribution|
@@ -186,6 +198,8 @@ These datasets are classified based on the following tasks.
 ## Time series Segmentation 
 |             Paper             | Conference | Year | Code | Used Datasets |Key Contribution|
 | :-------------------: | :----------: | :----------: | :------------------------: | ----------------------- |------ |
+| [ClaSP-Time Series Segmentation]()| CIKM | 2021 | - | - | - |
+| [Multi-series Time-aware Sequence Partitioning for Disease Progression Modeling]()| IJCAI | 2021 | - | - | - |
 
 
 ## Others
@@ -208,6 +222,16 @@ These datasets are classified based on the following tasks.
 | [Discrete-time Temporal Network Embedding via Implicit Hierarchical Learning](https://dl.acm.org/doi/10.1145/3447548.3467422) |  KDD | 2021 |[Code link](https://github.com/marlin-codes/HTGN-KDD21) | - |- |
 | [Time-series Generation by Contrastive Imitation](https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=26999) | NeurIPS | 2021 | - | - |- |
 |[Adjusting for Autocorrelated Errors in Neural Networks for Time Series](https://arxiv.org/pdf/2101.12578.pdf)| NeurIPS | 2021 | [Code link](https://github.com/Daikon-Sun/AdjustAutocorrelation) | - |- |
+| [Spikelet: An Adaptive Symbolic Approximation for Finding Higher-Level Structure in Time Series]() |  ICDM | 2021 | [Code link]() | - | - |
+| [STING: Self-attention based Time-series Imputation Networks using GAN]() |  ICDM | 2021 | [Code link]() | - | - |
+| [SMATE: Semi-Supervised Spatio-Temporal Representation Learning on Multivariate Time Series]() |  ICDM | 2021 | [Code link]() | - | - |
+| [TCube: Domain-Agnostic Neural Time-series Narration]() |  ICDM | 2021 | [Code link]() | - | - |
+| [Towards Interpretability and Personalization: A Predictive Framework for Clinical Time-series Analysis]() |  ICDM | 2021 | [Code link]() | - | - |
+| [Continual Learning for Multivariate Time Series Tasks with Variable Input Dimensions]() |  ICDM | 2021 | [Code link]() | - | - |
+| [CASPITA: Mining Statistically Significant Paths in Time Series Data from an Unknown Network]() |  ICDM | 2021 | [Code link]() | - | - |
+| [Multi-way Time Series Join on Multi-length Patterns]() |  ICDM | 2021 | [Code link]() | - | - |
+| [Temporal Event Profiling based on Multivariate Time Series Analysis over Long-term Document Archives]() |  SIGIR | 2021 | [Code link]() | - | - |
+| [Time-Aware Multi-Scale RNNs for Time Series Modeling]() |  ICDM | 2021 | [Code link]() | - | - |
 | [Deep reconstruction of strange attractors from time series](https://proceedings.neurips.cc/paper/2020/hash/021bbc7ee20b71134d53e20206bd6feb-Abstract.html) | NeurIPS | 2020| [Code link](https://github.com/williamgilpin/fnn) | - | - |
 | [High-recall causal discovery for autocorrelated time series with latent confounders](https://proceedings.neurips.cc/paper/2020/hash/94e70705efae423efda1088614128d0b-Abstract.html) | NeurIPS | 2020| [Code link](https://github.com/jakobrunge/tigramite) | - | - |
 | [Learning Long-Term Dependencies in Irregularly-Sampled Time Series](https://arxiv.org/abs/2006.04418) | NeurIPS | 2020| [Code link](https://github.com/mlech26l/ode-lstms) | - | - |
@@ -225,5 +249,4 @@ These datasets are classified based on the following tasks.
 | [Mining Recurring Patterns in Real-Valued Time Series using the Radius Profile](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338407) | ICDM | 2020 | [Code link]() | - | - |
 | [Learning Periods from Incomplete Multivariate Time Series](cs.albany.edu/~petko/lab/papers/zgzb2020icdm.pdf) | ICDM | 2020 | [Code link]() | - | - |
 | [FilCorr: Filtered and Lagged Correlation on Streaming Time Series](https://ieeexplore.ieee.org/document/9338257) | ICDM | 2020 | [Code link]() | - | - |
-| []() | ICDM | 2020 | [Code link]() | - | - |
 
