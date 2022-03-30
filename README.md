@@ -89,8 +89,6 @@ These datasets are classified based on the following tasks.
 | [Test-time Collective Prediction](https://arxiv.org/pdf/2106.12012v1.pdf) | NeurIPS | 2021 | - | Boston...... | - |
 | [Bubblewrap: Online tiling and real-time flow prediction on neural manifolds](https://arxiv.org/pdf/2108.13941v1.pdf) | NeurIPS | 2021 | [Code link](https://github.com/pearsonlab/Bubblewrap) | - | - |
 | [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://arxiv.org/pdf/2106.13008v2.pdf) | NeurIPS | 2021 | [Code link](https://github.com/thuml/Autoformer) | ETT, Electricity, Exchange, and Traffic | - |
-
-
 | [Learning to Learn the Future: Modeling Concept Drifts in Time Series Prediction]() |  CIKM | 2021 | [Code link]() | - | - |
 | [AdaRNN: Adaptive Learning and Forecasting of Time Series]() |  CIKM | 2021 | [Code link]() | - | - |
 | [Actionable Insights in Urban Multivariate Time-series]() |  CIKM | 2021 | [Code link]() | - | - |
