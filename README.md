@@ -196,8 +196,8 @@ These datasets are classified based on the following tasks.
 ## Time series Segmentation 
 |             Paper             | Conference | Year | Code | Used Datasets |Key Contribution|
 | :-------------------: | :----------: | :----------: | :------------------------: | ----------------------- |------ |
-| [ClaSP-Time Series Segmentation]()| CIKM | 2021 | - | - | - |
-| [Multi-series Time-aware Sequence Partitioning for Disease Progression Modeling]()| IJCAI | 2021 | - | - | - |
+| [ClaSP-Time Series Segmentation](https://dl.acm.org/doi/pdf/10.1145/3459637.3482240)| CIKM | 2021 | - | - | - |
+| [Multi-series Time-aware Sequence Partitioning for Disease Progression Modeling](https://www.ijcai.org/proceedings/2021/0493.pdf)| IJCAI | 2021 | - | sEMG | - |
 
 
 ## Others
