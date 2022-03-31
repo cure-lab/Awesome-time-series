@@ -89,24 +89,23 @@ These datasets are classified based on the following tasks.
 | [Test-time Collective Prediction](https://arxiv.org/pdf/2106.12012v1.pdf) | NeurIPS | 2021 | - | Boston...... | - |
 | [Bubblewrap: Online tiling and real-time flow prediction on neural manifolds](https://arxiv.org/pdf/2108.13941v1.pdf) | NeurIPS | 2021 | [Code link](https://github.com/pearsonlab/Bubblewrap) | - | - |
 | [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://arxiv.org/pdf/2106.13008v2.pdf) | NeurIPS | 2021 | [Code link](https://github.com/thuml/Autoformer) | ETT, Electricity, Exchange, and Traffic | - |
-| [Learning to Learn the Future: Modeling Concept Drifts in Time Series Prediction]() |  CIKM | 2021 | [Code link]() | - | - |
-| [AdaRNN: Adaptive Learning and Forecasting of Time Series]() |  CIKM | 2021 | [Code link]() | - | - |
-| [Actionable Insights in Urban Multivariate Time-series]() |  CIKM | 2021 | [Code link]() | - | - |
-| [Historical Inertia: A Neglected but Powerful Baseline for Long Sequence Time-series Forecasting]() |  CIKM | 2021 | [Code link]() | - | - |
-| [AGCNT: Adaptive Graph Convolutional Network for Transformer-based Long Sequence Time-Series Forecasting]() |  CIKM | 2021 | [Code link]() | - | - |
-| [PIETS: Parallelised Irregularity Encoders for Forecasting with Heterogeneous Time-Series]() |  ICDM | 2021 | [Code link]() | - | - |
-| [Attentive Neural Controlled Differential Equations for Time-series Classification and Forecasting]() |  ICDM | 2021 | [Code link]() | - | - |
-| [SSDNet: State Space Decomposition Neural Network for Time Series Forecasting]() |  ICDM | 2021 | [Code link]() | - | - |
-| [Two Birds with One Stone: Series Saliency for Accurate and Interpretable Multivariate Time Series Forecasting]() |  IJCAI | 2021 | [Code link]() | - | - |
-| [TE-ESN: Time Encoding Echo State Network for Prediction Based on Irregularly Sampled Time Series Data]() |  IJCAI | 2021 | [Code link]() | - | - |
-| [DeepFEC: Energy Consumption Prediction under Real-World Driving Conditions for Smart Cities]() | WWW | 2021| [Code link]() | - | - |
-| [HINTS: Citation Time Series Prediction for New Publications viaDynamic Heterogeneous Information Network Embedding]() | WWW | 2021| [Code link]() | - | - |
-| [Bid Prediction in Repeated Auctions with Learning]() | WWW | 2021| [Code link]() | - | - |
-| [Outlier-Resilient Web Service QoS Prediction]() | WWW | 2021| [Code link]() | - | - |
-| [Variable Interval Time Sequence Modeling for Career Trajectory Prediction: Deep Collaborative Perspective]() | WWW | 2021| [Code link]() | - | - |
-| [REST: Reciprocal Framework for Spatiotemporal coupled predictions]() | WWW | 2021| [Code link]() | - | - |
-| [AutoSTG: Neural Architecture Search for Predictions of Spatio-Temporal Graph]() | WWW | 2021| [Code link]() | - | - |
-| [Fine-grained Urban Flow Prediction]() | WWW | 2021| [Code link]() | - | - |
+| [Learning to Learn the Future: Modeling Concept Drifts in Time Series Prediction](https://dl.acm.org/doi/pdf/10.1145/3459637.3482271) |  CIKM | 2021 | - | Climate Dataset, Stock Dataset and Synthetic Dataset | - |
+| [AdaRNN: Adaptive Learning and Forecasting of Time Series](https://arxiv.org/pdf/2108.04443.pdf) |  CIKM | 2021 | - | UCI activity, Air quality, Electric power and Stock price | - |
+| [Actionable Insights in Urban Multivariate Time-series](https://dl.acm.org/doi/pdf/10.1145/3459637.3482410) |  CIKM | 2021 | - | Gaussian, Insect, Wikipedia and so on ...... | - |
+| [Historical Inertia: A Neglected but Powerful Baseline for Long Sequence Time-series Forecasting](https://arxiv.org/pdf/2103.16349.pdf) |  CIKM | 2021 | - | [ETT](https://github.com/zhouhaoyi/), [Electricity](https://github.com/laiguokun/multivariate-time-series-data)  | - |
+| [AGCNT: Adaptive Graph Convolutional Network for Transformer-based Long Sequence Time-Series Forecasting](https://dl.acm.org/doi/pdf/10.1145/3459637.3482054) |  CIKM | 2021 | - | ETT | - |
+| [PIETS: Parallelised Irregularity Encoders for Forecasting with Heterogeneous Time-Series](https://arxiv.org/pdf/2110.00071.pdf) |  ICDM | 2021 | - | Covid-19 | - |
+| [Attentive Neural Controlled Differential Equations for Time-series Classification and Forecasting](https://arxiv.org/pdf/2109.01876.pdf) |  ICDM | 2021 | [Code link](https://github.com/sheoyon-jhin/ANCDE) | Character Trajectories, PhysioNet Sepsis and Google Stock. | - |
+| [SSDNet: State Space Decomposition Neural Network for Time Series Forecasting](https://arxiv.org/pdf/2112.10251.pdf) |  ICDM | 2021 | - | Electricity,Exchange, Solar ...... | - |
+| [Two Birds with One Stone: Series Saliency for Accurate and Interpretable Multivariate Time Series Forecasting](https://www.ijcai.org/proceedings/2021/0397.pdf) |  IJCAI | 2021 | - | electricity, Air-quality, Industry data | - |
+| [TE-ESN: Time Encoding Echo State Network for Prediction Based on Irregularly Sampled Time Series Data](https://arxiv.org/pdf/2105.00412.pdf) |  IJCAI | 2021 | - | MG system, SILSO, USHCN, COVID-19 | - |
+| [DeepFEC: Energy Consumption Prediction under Real-World Driving Conditions for Smart Cities](https://dl.acm.org/doi/pdf/10.1145/3442381.3449983) | WWW | 2021| [Code link](https://github.com/ElmiSay/DeepFEC) |[SPMD](https://catalog.data.gov/dataset/safety-pilot-model-deployment-data), [VED](https://github.com/gsoh/VED) | - |
+| [HINTS: Citation Time Series Prediction for New Publications viaDynamic Heterogeneous Information Network Embedding](https://dl.acm.org/doi/pdf/10.1145/3442381.3450107) | WWW | 2021| - | [the AMiner Computer Science
+dataset](https://aminer.org/citation) and [the American Physical Society (APS) Physics dataset](https://journals.aps.org/datasets) | - |
+| [Variable Interval Time Sequence Modeling for Career Trajectory Prediction: Deep Collaborative Perspective](https://dl.acm.org/doi/pdf/10.1145/3442381.3449959) | WWW | 2021| - | traffic data from 1988.1 to 2018.11 | - |
+| [REST: Reciprocal Framework for Spatiotemporal coupled predictions](https://dl.acm.org/doi/pdf/10.1145/3442381.3449928) | WWW | 2021| - |  a traffic dataset released by Li et al. and [a web dataset](https://dumps.wikimedia.org) | - |
+| [AutoSTG: Neural Architecture Search for Predictions of Spatio-Temporal Graph](https://dl.acm.org/doi/pdf/10.1145/3442381.3449816) | WWW | 2021| [Code link](https://github.com/panzheyi/AutoSTG) | PEMS-BAY and METR-LA | - |
+| [Fine-grained Urban Flow Prediction](https://dl.acm.org/doi/pdf/10.1145/3442381.3449792) | WWW | 2021| - | TaxiBJ+, HappyValley | - |
 | [Probabilistic Time Series Forecasting with Shape and Temporal Diversity](https://proceedings.neurips.cc/paper/2020/hash/2f2b265625d76a6704b08093c652fd79-Abstract.html) | NeurIPS | 2020| [Code link](https://github.com/vincent-leguen/STRIPE) | - | - |
 | [Benchmarking Deep Learning Interpretability in Time Series Predictions](https://proceedings.neurips.cc/paper/2020/hash/47a3893cc405396a5c30d91320572d6d-Abstract.html) | NeurIPS | 2020| [Code link](https://github.com/ayaabdelsalam91/TS-Interpretability-Benchmark) | - | - |
 | [Adversarial Sparse Transformer for Time Series Forecasting](https://proceedings.neurips.cc/paper/2020/hash/c6b8c8d762da15fa8dbbdfb6baf9e260-Abstract.html) | NeurIPS | 2020| - | - | - |
