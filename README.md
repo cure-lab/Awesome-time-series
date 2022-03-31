@@ -135,10 +135,10 @@ These datasets are classified based on the following tasks.
 | [Joint-Label Learning by Dual Augmentation for Time Series Classification](https://ojs.aaai.org/index.php/AAAI/article/view/17071) | AAAI | 2021 | [Code](https://github.com/fchollet/keras) | [UCR](https://www.cs.ucr.edu/˜eamonn/) | a novel time-series data augmentation method  |
 | [Explainable Multivariate Time Series Classification: A Deep Neural Network Which Learns To Attend To Important Variables As Well As Time Intervals](https://arxiv.org/pdf/2011.11631.pdf) | WSDM | 2021 | - | - |- |
 | [Voice2Series: Reprogramming Acoustic Models for Time Series Classification](http://proceedings.mlr.press/v139/yang21j.html) | ICML |2021 |  [Code link](https://github.com/huckiyang/Voice2Series-Reprogramming) | - |- |
-| [Learning Saliency Maps to Explain Deep Time Series Classifiers]() |  CIKM | 2021 | [Code link]() | - | - |
-| [Gaussian Process Model Learning for Time Series Classification]() |  ICDM | 2021 | [Code link]() | - | - |
-| [Contrast Profile: A Novel Time Series Primitive that Allows Classification in Real World Settings]() |  ICDM | 2021 | [Code link]() | - | - |
-| [Attentive Neural Controlled Differential Equations for Time-series Classification and Forecasting]() |  ICDM | 2021 | [Code link]() | - | - |
+| [Learning Saliency Maps to Explain Deep Time Series Classifiers](https://thartvigsen.github.io/papers/cikm21.pdf) |  CIKM | 2021 | [Code link]() | - | - |
+| [Gaussian Process Model Learning for Time Series Classification](https://dl.acm.org/doi/pdf/10.1145/3468791.3468839) |  ICDM | 2021 | [Code link]() | - | - |
+| [Contrast Profile: A Novel Time Series Primitive that Allows Classification in Real World Settings](https://link.springer.com/content/pdf/10.1007/s10618-020-00695-8.pdf) |  ICDM | 2021 | [Code link]() | - | - |
+| [Attentive Neural Controlled Differential Equations for Time-series Classification and Forecasting](https://arxiv.org/pdf/2109.01876.pdf) |  ICDM | 2021 | [Code link]() | - | - |
 | [Imbalanced Time Series Classification for Flight Data Analyzing with Nonlinear Granger Causality Learning](https://dl.acm.org/doi/pdf/10.1145/3340531.3412710) | CIKM | 2020| [Code link]() | - | - |
 | [Visualet: Visualizing Shapelets for Time Series Classification](https://dl.acm.org/doi/pdf/10.1145/3340531.3417414) | CIKM | 2020| [Code link]() | - | - |
 | [Learning Discriminative Virtual Sequences for Time Series Classification](https://dl.acm.org/doi/pdf/10.1145/3340531.3412099) | CIKM | 2020| [Code link]() | - | - |
@@ -172,15 +172,15 @@ These datasets are classified based on the following tasks.
 | [You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection](https://arxiv.org/pdf/2106.00666.pdf) | NeurIPS | 2021 | [Code link](https://github.com/hustvl/YoLos) | - | - |
 | [Drop-DTW: Aligning Common Signal Between Sequences While Dropping Outliers](https://arxiv.org/pdf/2108.11996.pdf)| NeurIPS | 2021 | - | - | - |
 | [Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation](https://arxiv.org/pdf/2107.03502.pdf)| NeurIPS | 2021 | [Code link](https:/github.com/ermongroup/CsDl) | - | - |
-| [SDFVAE: Static and Dynamic Factorized VAE for Anomaly Detection of Multivariate CDN KPIs]() | WWW | 2021| [Code link]() | - | - |
-| [Time-series Change Point Detection with Self-Supervised Contrastive Predictive Coding]() | WWW | 2021| [Code link]() | - | - |
-| [NTAM: Neighborhood-Temporal Attention Model for Disk Failure Prediction in Cloud Platforms]() | WWW | 2021| [Code link]() | - | - |
-| [One Detector to Rule Them All: Towards a General Deepfake Attack Detection Framework]() | WWW | 2021| [Code link]() | - | - |
-| [Improving Irregularly Sampled Time Series Learning with Time-Aware Dual-Attention Memory-Augmented Networks]() |  CIKM | 2021 | [Code link]() | - | - |
-| [BiCMTS: Bidirectional Coupled Multivariate Learning of Irregular Time Series with Missing Values]() |  CIKM | 2021 | [Code link]() | - | - |
+| [SDFVAE: Static and Dynamic Factorized VAE for Anomaly Detection of Multivariate CDN KPIs](https://dl.acm.org/doi/pdf/10.1145/3442381.3450013) | WWW | 2021| [Code link]() | - | - |
+| [Time-series Change Point Detection with Self-Supervised Contrastive Predictive Coding](https://arxiv.org/pdf/2011.14097.pdf) | WWW | 2021| [Code link]() | - | - |
+| [NTAM: Neighborhood-Temporal Attention Model for Disk Failure Prediction in Cloud Platforms](https://dl.acm.org/doi/pdf/10.1145/3442381.3449867) | WWW | 2021| [Code link]() | - | - |
+| [One Detector to Rule Them All: Towards a General Deepfake Attack Detection Framework](https://arxiv.org/pdf/2105.00187.pdf) | WWW | 2021| [Code link]() | - | - |
+| [Improving Irregularly Sampled Time Series Learning with Time-Aware Dual-Attention Memory-Augmented Networks](https://dl.acm.org/doi/pdf/10.1145/3459637.3482079) |  CIKM | 2021 | [Code link]() | - | - |
+| [BiCMTS: Bidirectional Coupled Multivariate Learning of Irregular Time Series with Missing Values](https://dl.acm.org/doi/pdf/10.1145/3459637.3482064) |  CIKM | 2021 | [Code link]() | - | - |
 | [Timeseries Anomaly Detection using Temporal Hierarchical One-Class Network](https://proceedings.neurips.cc/paper/2020/hash/97e401a02082021fd24957f852e0e475-Abstract.html) | NeurIPS | 2020| - | - | - |
 | [USAD : UnSupervised Anomaly Detection on multivariate time series](https://dl.acm.org/doi/10.1145/3394486.3403392) | KDD | 2020| - | - | - |
-| [Application Performance Anomaly Detection with LSTM on Temporal Irregularities in Logs]() | CIKM | 2020| [Code link]() | - | - |
+| [Application Performance Anomaly Detection with LSTM on Temporal Irregularities in Logs](https://hal.archives-ouvertes.fr/hal-03117074/document) | CIKM | 2020| [Code link]() | - | - |
 | [Multivariate Time-series Anomaly Detection via Graph Attention Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338317) | ICDM | 2020| [Code link]() | - | - |
 | [MERLIN: Parameter-Free Discovery of Arbitrary Length Anomalies in Massive Time Series Archives](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338376) | ICDM | 2020| [Code link]() | - | - |
 
