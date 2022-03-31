@@ -43,9 +43,6 @@ These datasets are classified based on the following tasks.
 |[Financial time series forecasting with deep learning : A systematic literature review: 2005–2019](https://arxiv.org/pdf/1911.13288.pdf)| ASC | 2019 | - | - |
 |[Natural language based financial forecasting: a survey](https://dspace.mit.edu/bitstream/handle/1721.1/116314/10462_2017_9588_ReferencePDF.pdf?sequence=2&isAllowed=y)| Artificial Intelligence Review | 2018 | - | - |
 
-
-
-
 ## Time Series Forecasting 
 
 |             Paper             | Conference | Year | Code | Used Datasets |Key Contribution|
@@ -123,8 +120,6 @@ These datasets are classified based on the following tasks.
 | [DATSING: Data Augmented Time Series Forecasting with Adversarial Domain Adaptation]() | CIKM | 2020| [Code link]() | - | - |
 | [Dual Sequential Network for Temporal Sets Prediction](https://dl.acm.org/doi/pdf/10.1145/3397271.3401124) | SIGIR | 2020| [Code link]() | - | - |
 
-
-
 ## Time Series Classification 
 |             Paper             | Conference | Year | Code | Used Datasets |Key Contribution|
 | :-------------------: | :----------: | :----------: | :------------------------: | ----------------------- |------ |
@@ -144,13 +139,7 @@ These datasets are classified based on the following tasks.
 | [Learning Discriminative Virtual Sequences for Time Series Classification](https://dl.acm.org/doi/pdf/10.1145/3340531.3412099) | CIKM | 2020| [Code link]() | - | - |
 | [Fast and Accurate Time Series Classification Through Supervised Interval Search](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338332) | CIKM | 2020| [Code link]() | - | - |
 
-
-
-
-
-
 ## Anomaly Detection
-
 |             Dataset             | Conference | Year | Code | Used Datasets |Key Contribution|
 | :-------------------: | :----------: | :------------------------: | ----------------------- | ------------------------- |------ |
 | [Towards a Rigorous Evaluation of Time-series Anomaly Detection](https://arxiv.org/abs/2109.05257) | AAAI | 2022 | - | Secure water treatment (SWaT), ...... | applying PA can severely overestimate a TAD model’s capability.|
@@ -197,9 +186,7 @@ These datasets are classified based on the following tasks.
 | [ClaSP-Time Series Segmentation](https://dl.acm.org/doi/pdf/10.1145/3459637.3482240)| CIKM | 2021 | - | - | - |
 | [Multi-series Time-aware Sequence Partitioning for Disease Progression Modeling](https://www.ijcai.org/proceedings/2021/0493.pdf)| IJCAI | 2021 | - | sEMG | - |
 
-
 ## Others
-
 |             Paper             | Conference | Year | Code | Used Datasets |Key Contribution|
 | :-------------------: | :----------: | :----------: | :------------------------: | ----------------------- |------ |
 | [Conditional Loss and Deep Euler Scheme for Time Series Generation](https://arxiv.org/abs/2102.05313v5) | AAAI | 2022 | - | - | - |
