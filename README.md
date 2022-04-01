@@ -149,8 +149,8 @@ These datasets are classified based on the following tasks.
 | [Graph Neural Network-Based Anomaly Detection in Multivariate Time Series](https://www.aaai.org/AAAI21Papers/AAAI-5076.DengA.pdf) | AAAI | 2021 | - | - | - | - |
 | [Time Series Anomaly Detection with Multiresolution Ensemble Decoding](https://www.aaai.org/AAAI21Papers/AAAI-5192.ShenL.pdf) | AAAI | 2021 | - | - | - |- |
 | [Outlier Impact Characterization for Time Series Data](https://par.nsf.gov/servlets/purl/10272499) | AAAI | 2021 | [benchmark](https://github.com/numenta/NAB) | [Webscope](http://labs.yahoo.com/Academic-Relations), [Physionet](https://physionet.org/content/chfdb/1.0.0/) | - |
-| [F-FADE: Frequency Factorization for Anomaly Detection in Edge Streams](https://arxiv.org/pdf/2011.04723.pdf) | WSDM | 2021 | [Code link](http://snap.stanford.edu/f-fade/) | - |- |
-| [FluxEV: A Fast and Effective Unsupervised Framework for Time-Series Anomaly Detection](https://dl.acm.org/doi/pdf/10.1145/3437963.3441823) | WSDM | 2021 | [Code link](https://github.com/DawnsonLi/EVT) | - |- |
+| [F-FADE: Frequency Factorization for Anomaly Detection in Edge Streams](https://arxiv.org/pdf/2011.04723.pdf) | WSDM | 2021 | [Code link](http://snap.stanford.edu/f-fade/) | - | - |
+| [FluxEV: A Fast and Effective Unsupervised Framework for Time-Series Anomaly Detection](https://dl.acm.org/doi/pdf/10.1145/3437963.3441823) | WSDM | 2021 | [Code link](https://github.com/DawnsonLi/EVT) | - | - |
 | [Event Outlier Detection in Continuous Time](https://proceedings.mlr.press/v139/liu21g.html) | ICML |2021 |  [Code link](https://github.com/siqil/CPPOD) | - |- |
 | [Multivariate Time Series Anomaly Detection and Interpretation using Hierarchical Inter-Metric and Temporal Embedding](https://dl.acm.org/doi/10.1145/3447548.3467075) |  KDD |2021 | [Code link](https:/github.com/zhhlee/lnterFusion) | - |- |
 | [Practical Approach to Asynchronous Multi-variate Time Series Anomaly Detection and Localization](https://dl.acm.org/doi/10.1145/3447548.3467174) | KDD |2021 |  [Code link](https://github.com/eBay/RANSyncoders) | - |- |
@@ -195,7 +195,7 @@ These datasets are classified based on the following tasks.
 | [Long Short-Term Temporal Meta-learning in Online Recommendation](https://dl.acm.org/doi/10.1145/3488560.3498371) | WSDM | 2022 | - | - |- |
 | [Structure Meets Sequences: Predicting Network of Co-evolving Sequences](https://dl.acm.org/doi/10.1145/3488560.3498411) | WSDM | 2022 | [Code link](https://github.com/SoftWiser-group/SeeS) | - |- |
 | [EvoKG: Jointly Modeling Event Time and Network Structure for Reasoning over Temporal Knowledge Graphs](https://dl.acm.org/doi/10.1145/3488560.3498451) | WSDM | 2022 | [Code link](https://namyongpark.github.io/evokg) | - | - |
-| [FILLING THE G AP S: MULTIVARIATE TIME SERIES IMPUTATION BY GRAPH NEURAL NETWORKS](https://openreview.net/pdf?id=kOu3-S3wJ7) |  ICLR |2022 | - | Air quality, Traffic, and Smart Grids | - |
+| [FILLING THE GAPS: MULTIVARIATE TIME SERIES IMPUTATION BY GRAPH NEURAL NETWORKS](https://openreview.net/pdf?id=kOu3-S3wJ7) |  ICLR |2022 | - | Air quality, Traffic, and Smart Grids | - |
 | [PSA-GAN: PROGRESSIVE SELF ATTENTION GANS FOR SYNTHETIC TIME SERIES](https://openreview.net/pdf?id=Ix_mh42xq5w) |  ICLR |2022 | [Code link](https://github.com/mbohlkeschneider/psa-gan), [Code on glueonts](https://github.com/awslabs/gluon-ts.) | Electricty, M4, Solar energy, Traffic | - |
 | [Generative Semi-Supervised Learning for Multivariate Time Series Imputation](https://www.aaai.org/AAAI21Papers/AAAI-7391.MiaoX.pdf) | AAAI | 2021 | - | - | - |
 | [Temporal Cross-Effects in Knowledge Tracing](https://dl.acm.org/doi/pdf/10.1145/3437963.3441802) | WSDM | 2021 | - | - |- |
