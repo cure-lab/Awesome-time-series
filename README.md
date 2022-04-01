@@ -104,7 +104,7 @@ These datasets are classified based on the following tasks.
 | [Fine-grained Urban Flow Prediction](https://dl.acm.org/doi/pdf/10.1145/3442381.3449792) | WWW | 2021| - | TaxiBJ+, HappyValley | - |
 | [Probabilistic Time Series Forecasting with Shape and Temporal Diversity](https://proceedings.neurips.cc/paper/2020/hash/2f2b265625d76a6704b08093c652fd79-Abstract.html) | NeurIPS | 2020| [Code link](https://github.com/vincent-leguen/STRIPE) | - | - |
 | [Benchmarking Deep Learning Interpretability in Time Series Predictions](https://proceedings.neurips.cc/paper/2020/hash/47a3893cc405396a5c30d91320572d6d-Abstract.html) | NeurIPS | 2020| [Code link](https://github.com/ayaabdelsalam91/TS-Interpretability-Benchmark) | - | - |
-| [Adversarial Sparse Transformer for Time Series Forecasting](https://proceedings.neurips.cc/paper/2020/hash/c6b8c8d762da15fa8dbbdfb6baf9e260-Abstract.html) | NeurIPS | 2020| - | - | - |
+| [Adversarial Sparse Transformer for Time Series Forecasting](https://proceedings.neurips.cc/paper/2020/hash/c6b8c8d762da15fa8dbbdfb6baf9e260-Abstract.html) | NeurIPS | 2020| - | [electricity](https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams 20112014),[traffic](https://archive.ics.uci.edu/ml/datasets/PEMS-SF), [wind](https://www.kaggle.com/sohier/30-years-of-european-wind-generation), [solar](https://www.nrel.gov/grid/solar-power-data.html), M4-Hourly | - |
 | [Deep Rao-Blackwellised Particle Filters for Time Series Forecasting](https://proceedings.neurips.cc/paper/2020/hash/afb0b97df87090596ae7c503f60bb23f-Abstract.html) | NeurIPS | 2020| - | - | - |
 | [Gamma-Models: Generative Temporal Difference Learning for Infinite-Horizon Prediction](https://proceedings.neurips.cc/paper/2020/hash/12ffb0968f2f56e51a59a6beb37b2859-Abstract.html) | NeurIPS | 2020| - | - | - |
 | [EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning](https://proceedings.neurips.cc/paper/2020/hash/e4d8163c7a068b65a64c89bd745ec360-Abstract.html) | NeurIPS | 2020| - | - | - |
@@ -117,7 +117,7 @@ These datasets are classified based on the following tasks.
 | [Attention based multi-modal new product sales time-series forecasting](https://dl.acm.org/doi/10.1145/3394486.3403362) | KDD | 2020| - | - | - |
 | [BusTr: predicting bus travel times from real-time traffic](https://dl.acm.org/doi/10.1145/3394486.3403376) | KDD | 2020| - | - | - |
 | [CompactETA: A Fast Inference System for Travel Time Prediction](https://dl.acm.org/doi/10.1145/3394486.3403386) |KDD| 2020| - | - | - |
-| [DATSING: Data Augmented Time Series Forecasting with Adversarial Domain Adaptation]() | CIKM | 2020| [Code link]() | - | - |
+| [DATSING: Data Augmented Time Series Forecasting with Adversarial Domain Adaptation](https://www.researchgate.net/publication/344082806_DATSING_Data_Augmented_Time_Series_Forecasting_with_Adversarial_Domain_Adaptation) | CIKM | 2020| [Code link]() | - | - |
 | [Dual Sequential Network for Temporal Sets Prediction](https://dl.acm.org/doi/pdf/10.1145/3397271.3401124) | SIGIR | 2020| [Code link]() | - | - |
 
 ## Time Series Classification 
