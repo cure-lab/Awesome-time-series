@@ -226,10 +226,10 @@ These datasets are classified based on the following tasks.
 | [Personalized Imputation on Wearable-Sensory Time Series via Knowledge Transfer](https://dl.acm.org/doi/pdf/10.1145/3340531.3411879) | CIKM | 2020| [Code link]() | - | - |
 | [Hybrid Sequential Recommender via Time-aware Attentive Memory Network](https://dl.acm.org/doi/pdf/10.1145/3340531.3411869) | CIKM | 2020| [Code link]() | - | - |
 | [Order-Preserving Metric Learning for Mining Multivariate Time Series](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338310) | ICDM | 2020| [Code link]() | - | - |
-| [Fast Automatic Feature Selection for Multi-period Sliding Window Aggregate in Time Series](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338337) | ICDM | 2020| [Code link]() | - | - |
+| [Fast Automatic Feature Selection for Multi-period Sliding Window Aggregate in Time Series](https://arxiv.org/pdf/2012.01037.pdf) | ICDM | 2020| - | Tianchi, PLAsTiCC, NFL, MotionSense, Gas Sensors | a framework to fill the gap of the end-to-end automatic sliding window aggregate feature selection for time series |
 | [Matrix Profile XXII: Exact Discovery of Time Series Motifs Under DTW](https://ieeexplore.ieee.org/document/9338266) | ICDM | 2020| [Code link]() | - | - |
-| [Inductive Granger Causal Modeling for Multivariate Time Series](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338381) | ICDM | 2020 | [Code link]() | - | - |
-| [Mining Recurring Patterns in Real-Valued Time Series using the Radius Profile](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338407) | ICDM | 2020 | [Code link]() | - | - |
-| [Learning Periods from Incomplete Multivariate Time Series](cs.albany.edu/~petko/lab/papers/zgzb2020icdm.pdf) | ICDM | 2020 | [Code link]() | - | - |
-| [FilCorr: Filtered and Lagged Correlation on Streaming Time Series](https://ieeexplore.ieee.org/document/9338257) | ICDM | 2020 | [Code link]() | - | - |
+| [Inductive Granger Causal Modeling for Multivariate Time Series](https://arxiv.org/pdf/2102.05298.pdf) | ICDM | 2020 | - | [Finance](http://www.skleinberg.org/data.html), FMRI, Synthetic data | - |
+| [Mining Recurring Patterns in Real-Valued Time Series using the Radius Profile](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338407) | ICDM | 2020 | - | - | - |
+| [Learning Periods from Incomplete Multivariate Time Series](cs.albany.edu/~petko/lab/papers/zgzb2020icdm.pdf) | ICDM | 2020 | - | - | - |
+| [FilCorr: Filtered and Lagged Correlation on Streaming Time Series](https://ieeexplore.ieee.org/document/9338257) | ICDM | 2020 | - | - | - |
 
