@@ -176,15 +176,15 @@ These datasets are classified based on the following tasks.
 ## Time series Clustering 
 |             Paper             | Conference | Year | Code | Used Datasets |Key Contribution|
 | :-------------------: | :----------: | :----------: | :------------------------: | ----------------------- |------ |
-| [Clustering Interval-Censored Time-Series for Disease Phenotyping](https://arxiv.org/abs/2102.07005v4) | AAAI | 2022 | - | - |
-| [Corsets for Time Series Clustering](https://arxiv.org/pdf/2110.15263.pdf) | NeurIPS| 2021 | - | - |-|
-| [Temporal Phenotyping using Deep Predictive Clustering of Disease Progression](http://proceedings.mlr.press/v119/lee20h.html) | ICML | 2020| [Code link](https://github.com/chl8856/AC_TPC) | - | - |
+| [Clustering Interval-Censored Time-Series for Disease Phenotyping](https://arxiv.org/pdf/2102.07005v4.pdf) | AAAI | 2022 | - | present our method, SubLign, to learn latent representations of disease progression that correct for temporal misalignment in real-world observations and consider conditions for identifiability of subtype and alignment values. |
+| [Corsets for Time Series Clustering](https://arxiv.org/pdf/2110.15263.pdf) | NeurIPS| 2021 | - | synthetic data |address the problem of constructing coresets for time series data generated from Gaussian mixture models with auto-correlations across time.|
+| [Temporal Phenotyping using Deep Predictive Clustering of Disease Progression](http://proceedings.mlr.press/v119/lee20h/lee20h.pdf) | ICML | 2020| [Code link](https://github.com/chl8856/AC_TPC) | [UKCF](https://www.cysticfibrosis.org.uk), [Alzheimer’s Disease Neuroimaging Initiative (ADNI)](https://adni.loni.usc.edu) | defined novel loss functions to encourage each cluster to have homogeneous future outcomes and designed optimization procedures to avoid trivial solutions in identifying cluster as- signments and the centroids.  |
 
 ## Time series Segmentation 
 |             Paper             | Conference | Year | Code | Used Datasets |Key Contribution|
 | :-------------------: | :----------: | :----------: | :------------------------: | ----------------------- |------ |
-| [ClaSP-Time Series Segmentation](https://dl.acm.org/doi/pdf/10.1145/3459637.3482240)| CIKM | 2021 | - | - | - |
-| [Multi-series Time-aware Sequence Partitioning for Disease Progression Modeling](https://www.ijcai.org/proceedings/2021/0493.pdf)| IJCAI | 2021 | - | sEMG | - |
+| [ClaSP-Time Series Segmentation](https://dl.acm.org/doi/pdf/10.1145/3459637.3482240)| CIKM | 2021 | - | 98 datasets.... |  a novel and highly accurate method for TSS. ClaSP hierarchically splits a TS into two parts, where each split point is determined by training a binary TS classifier for each possible split point and selecting the one with highest accuracy |
+| [Multi-series Time-aware Sequence Partitioning for Disease Progression Modeling](https://www.ijcai.org/proceedings/2021/0493.pdf)| IJCAI | 2021 | - | sEMG | improved the TICC by incorporating multi- series input (M-TICC) and time-awareness (MT-TICC). |
 
 ## Others
 |             Paper             | Conference | Year | Code | Used Datasets |Key Contribution|
