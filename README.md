@@ -20,7 +20,7 @@ These datasets are classified based on the following tasks.
 
 |             Paper                                                           | Conference | Year | Code | Used Datasets |Key Contribution|
 | :--------------------------: | :-------------------: | :------------------: | ----------------------- | ----------------------- |------ |
-|[Transformers in Time Series: A Survey](https://arxiv.org/pdf/2202.07125.pdf)| - | 2022 | [link](https://github.com/qingsongedu/time-series-transformers-review) | - |
+|[Transformers in Time Series: A Survey](https://arxiv.org/pdf/2202.07125.pdf)| - | 2022 | [link](https://github.com/qingsongedu/time-series-transformers-review) | - |1. This work summarizes the network structures from adaptations and modification. 2. This work categorizes these methods into three tasks, e.g., forecasting, anomaly detection, and classification.
 |[Time series data augmentation for deep learning: a survey](https://arxiv.org/pdf/2002.12478.pdf)| IJCAI | 2021 | - | - |
 |[Neural temporal point processes: a review](https://arxiv.org/pdf/2104.03528v5.pdf)| IJCAI | 2021 | - | - |
 |[Time-series forecasting with deep learning: a survey](https://arxiv.org/pdf/2004.13408.pdf)| Philosophical Transactions of the Royal Society A | 2021 | - | - |
