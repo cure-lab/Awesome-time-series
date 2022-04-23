@@ -16,6 +16,17 @@ These datasets are classified based on the following tasks.
   - [Others ](#others)
 
 
+
+## Update
+- [2022-04-25] **TS-Paper v1.0 is released!** We support the published time series papers from 2020 to 2022. Stay tuned!
+
+
+## Features
+- [ ] Add papers published in 2019. (v2.0)
+- [ ] Add papers published in 2018. (v3.0)
+
+
+
 ## Survey
 
 |             Paper                                                           | Conference | Year | Code | Key Contribution|
@@ -232,4 +243,13 @@ These datasets are classified based on the following tasks.
 | [Mining Recurring Patterns in Real-Valued Time Series using the Radius Profile](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338407) | ICDM | 2020 | - | - | - |
 | [Learning Periods from Incomplete Multivariate Time Series](cs.albany.edu/~petko/lab/papers/zgzb2020icdm.pdf) | ICDM | 2020 | - | - | - |
 | [FilCorr: Filtered and Lagged Correlation on Streaming Time Series](https://ieeexplore.ieee.org/document/9338257) | ICDM | 2020 | - | - | - |
+
+
+
+
+
+## Contributing
+We appreciate all contributions to improve this paper repo! Read the [contribution guideline]() first.
+
+Please feel free to pull requests, open an issue or send me email (ailingzengzzz@gmail.com) to add awesome papers.
 
