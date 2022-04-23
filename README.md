@@ -249,7 +249,7 @@ These datasets are classified based on the following tasks.
 
 
 ## Contributing
-We appreciate all contributions to improve this paper repo! Read the [contribution guideline]() first.
+We appreciate all contributions to improve this paper repo!
 
 Please feel free to pull requests, open an issue or send me email (ailingzengzzz@gmail.com) to add awesome papers.
 
