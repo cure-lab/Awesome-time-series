@@ -2,10 +2,6 @@
 A comprehensive survey on the time series papers from 2018-2022 (we will update it in time ASAP!) on the top conferences (NeurIPS, ICML, ICLR, SIGKDD, SIGIR, AAAI, IJCAI, WWW, CIKM, ICDM, WSDM, etc.)
 
 We divided these papers into several fundamental tasks as follows.
-# Time Series Dataset
-A comprehensive time-series dataset survey.
-
-These datasets are classified based on the following tasks.
 - [📝 Time Series Papers](#-time-series-paper)
   - [Survey](#survey)
   - [Time Series Forecasting](#time-series-forecasting)
@@ -22,6 +18,7 @@ These datasets are classified based on the following tasks.
 
 
 ## Features
+- [ ] Add papers published in WWW 2022
 - [ ] Add papers published in 2019. (v2.0)
 - [ ] Add papers published in 2018. (v3.0)
 
