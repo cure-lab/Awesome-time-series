@@ -136,12 +136,14 @@ We divided these papers into several fundamental tasks as follows.
 | [Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting](https://papers.nips.cc/paper/2019/file/3a0844cee4fcf57de0c71e9ad3035478-Paper.pdf)  | NeurIPS | 2019 | [Code](https://github.com/rajatsen91/deepglo) | electricity, traffic, wik, PeMS07(M) | Our model can be trained effectively on high-dimensional but diverse time series, where different time series can have vastly different scales, without a priori normalization or rescaling. |
 | [Shape and Time Distortion Loss for Training Deep Time Series Forecasting Models](https://papers.nips.cc/paper/2019/file/466accbac9a66b805ba50e42ad715740-Paper.pdf) | NeurIPS | 2019 | [Code](https://github.com/vincent-leguen/DILATE) | Synth, ECG, Traffic |  We introduce a differentiable loss function suitable for training deep neural nets, and provide a custom back-prop implementation for speeding up optimization. We also introduce a variant of DILATE, which provides a smooth generalization of temporally-constrained Dynamic Time Warping (DTW). |
 |    [Enhancing the Locality and Breaking the Memory Bottleneck of Transformer on Time Series Forecasting](https://papers.nips.cc/paper/2019/file/6775a0635c302542da2c32aa19d86be0-Paper.pdf) | NeurIPS | 2019 | - | [solar](https://www.nrel.gov/grid/solar-power-data.html), [wind](https://www.kaggle.com/sohier/30-years-of-european-wind-generation) | we first propose convolutional self-attention by producing queries and keys with causal convolution so that local context can be better incorporated into attention mechanism. |
-|    []()         | NeurIPS | 2019 | [Code]() | [Datasets]() | - |
-|    []()         | NeurIPS | 2019 | [Code]() | [Datasets]() | - |
-|    [U-Time: A Fully Convolutional Network for Time Series Segmentation Applied to Sleep Staging]() | NeurIPS | 2019 | [Code]() | [Datasets]() | - |
-|    []()         | NeurIPS | 2019 | [Code]() | [Datasets]() | - |
-|    []()         | NeurIPS | 2019 | [Code]() | [Datasets]() | - |
-|    []()         | NeurIPS | 2019 | [Code]() | [Datasets]() | - |
+|[Discovering Latent Covariance Structures for Multiple Time Series](https://proceedings.mlr.press/v97/tong19a/tong19a.pdf) | ICML | 2019 | - | - | We present a pragmatic search algorithm which explores a larger structure space efficiently. |
+
+
+
+|  [BeatGAN: Anomalous Rhythm Detection using Adversarially Generated Time Series](https://www.ijcai.org/proceedings/2019/0616.pdf) | IJCAI | 2019 | [Code](https://github.com/Vniex/BeatGAN) | - | BeatGAN outputs explainable results to pinpoint the anomalous time ticks of an input beat, by comparing them to ad- versarially generated beats. |
+| [Learning Interpretable Deep State Space Model for Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2102.00397.pdf)  | IJCAI | 2019 | [Code](https://docs.aws.amazon.com/sagemaker/latest/dg/deepar.html) | [MIT-BIH ECG dataset](https://physionet.org/cgi-bin/atm/ATM?database=mitdb), CMU Motion Capture dataset | Our approach involves a deep network based embodiment of the state space model, to allow for non-linear emission and transition models design, which is flexible to deal with arbitrary data distribution.|
+| [Explainable Deep Neural Networks for Multivariate Time Series Predictions](https://www.ijcai.org/proceedings/2019/0932.pdf)   | IJCAI | 2019 | - | - | We design a two stage convolutional neural network architec- ture which uses particular kernel sizes. This allows us to utilise gradient based techniques for generat- ing saliency maps for both the time dimension and the features. |
+
 
 
 
@@ -198,6 +200,8 @@ We divided these papers into several fundamental tasks as follows.
 | [Application Performance Anomaly Detection with LSTM on Temporal Irregularities in Logs](https://hal.archives-ouvertes.fr/hal-03117074/document) | CIKM | 2020| [Code link]() | - |  present a new method to perform anomaly detection, while maintaining the quantitative aspect of time, using a count of event types over time. |
 | [Multivariate Time-series Anomaly Detection via Graph Attention Network](https://arxiv.org/pdf/2009.02040.pdf) | ICDM | 2020| [Code link]() | SMAP, MSL, TSA | propose a novel framework based on graph attention network for multivariate time-series anomaly detection. |
 | [MERLIN: Parameter-Free Discovery of Arbitrary Length Anomalies in Massive Time Series Archives](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338376) | ICDM | 2020| - | - | an algorithm that can efficiently and exactly find discords of all lengths in massive time series archives. |
+|    [Outlier Detection for Time Series with Recurrent Autoencoder Ensembles](https://www.ijcai.org/proceedings/2019/0378.pdf)   | IJCAI | 2019 | [Code]( https://github.com/tungk/OED) | Traffic,...... | The two solutions are ensemble frameworks, specifically an indepen- dent framework and a shared framework, both of which combine multiple S-RNN based autoencoders to enable outlier detection. |
+|  [Regularization for Time Series Trend Filtering](https://arxiv.org/pdf/1906.03751.pdf)  | IJCAI | 2019 | - | - | we adopt the Hu- ber loss to suppress outliers, and utilize a combina- tion of the first order and second order difference on the trend component as regularization to cap- ture both slow and abrupt trend changes. Further- more, an efficient method is designed to solve the proposed robust trend filtering based on majoriza- tion minimization (MM) and alternative direction method of multipliers (ADMM). |
 
 ## Time series Clustering 
 |             Paper             | Conference | Year | Code | Used Datasets |Key Contribution|
@@ -213,6 +217,8 @@ We divided these papers into several fundamental tasks as follows.
 | :-------------------: | :----------: | :----------: | :------------------------: | ----------------------- |------ |
 | [ClaSP-Time Series Segmentation](https://dl.acm.org/doi/pdf/10.1145/3459637.3482240)| CIKM | 2021 | - | 98 datasets.... |  a novel and highly accurate method for TSS. ClaSP hierarchically splits a TS into two parts, where each split point is determined by training a binary TS classifier for each possible split point and selecting the one with highest accuracy |
 | [Multi-series Time-aware Sequence Partitioning for Disease Progression Modeling](https://www.ijcai.org/proceedings/2021/0493.pdf)| IJCAI | 2021 | - | sEMG | improved the TICC by incorporating multi- series input (M-TICC) and time-awareness (MT-TICC). |
+| [Linear Time Complexity Time Series Clustering with Symbolic Pattern Forest](https://www.ijcai.org/proceedings/2019/0406.pdf)  | IJCAI | 2019 | [Code]( http://mason.gmu.edu/∼xli22/SPF) | - | This paper presents a novel time series clustering algorithm that has linear time complex- ity. The proposed algorithm partitions the data by checking some randomly selected symbolic pat- terns in the time series. |
+| [Similarity Preserving Representation Learning for Time Series Clustering](https://arxiv.org/pdf/1702.03584.pdf)    | IJCAI | 2019 | - | - | In this paper, we bridge this gap by proposing an efficient representation learning framework that is able to convert a set of time series with various lengths to an instance-feature matrix.  |
 
 ## Others
 |             Paper             | Conference | Year | Code | Used Datasets |Key Contribution|
@@ -270,7 +276,10 @@ We divided these papers into several fundamental tasks as follows.
 |    [Unsupervised Scalable Representation Learning for Multivariate Time Series ](https://papers.nips.cc/paper/2019/file/53c6de78244e9f528eb3e1cda69699bb-Paper.pdf)  | NeurIPS | 2019 | [Code]() | [Datasets]() | - |
 |    [Latent Ordinary Differential Equations for Irregularly-Sampled Time Series](https://papers.nips.cc/paper/2019/file/42a6845a557bef704ad8ac9cb4461d43-Paper.pdf)         | NeurIPS | 2019 | - | Human Activity dataset | We generalize RNNs to have continuous-time hidden dynamics defined by ordinary differential equations (ODEs), a model we call ODE-RNNs. Furthermore, we use ODE-RNNs to replace the recognition network of the recently-proposed Latent ODE model. |
 |    [GRU-ODE-Bayes: Continuous Modeling of Sporadically-Observed Time Series](https://papers.nips.cc/paper/2019/file/455cb2657aaa59e32fad80cb0b65b9dc-Paper.pdf)         | NeurIPS | 2019 | [Code]() | [Datasets]() | - |
-
+| [Interpolation-Prediction Networks for Irregularly Sampled Time Series](https://openreview.net/pdf?id=r1efr3C9Ym) | ICLR | 2019 | [Code](https://github.com/mlds-lab/interp-net) | [MIMIC-III](https://mimic.physionet.org/), [UWaveGestureLibraryAll](http://timeseriesclassification.com) | In this paper, we have presented a new framework for dealing with the problem of supervised learn- ing in the presence of sparse and irregularly sampled time series. The proposed framework is fully modular.|
+| [SOM-VAE: Interpretable Discrete Representation Learning on Time Series](https://openreview.net/pdf?id=rygjcsR9Y7) | ICLR | 2019 | -| - | The SOM-VAE can recover topologically interpretable state representations on time series and static data. It provides an improvement to standard methods in terms of clustering performance and offers a way to learn discrete two-dimensional representations of the data manifold in concurrence with the reconstruction task. |
+|[U-Time: A Fully Convolutional Network for Time Series Segmentation Applied to Sleep Staging](https://papers.nips.cc/paper/2019/file/57bafb2c2dfeefba931bb03a835b1fa9-Paper.pdf) | NeurIPS | 2019 | [Code]() | [Datasets]() | - |
+|  [E^2GAN: End-to-End Generative Adversarial Network for Multivariate Time Series Imputation](https://www.ijcai.org/proceedings/2019/0429.pdf)| IJCAI | 2019 | -| - | - |
 
 
 
