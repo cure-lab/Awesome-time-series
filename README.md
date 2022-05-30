@@ -133,6 +133,18 @@ We divided these papers into several fundamental tasks as follows.
 | [CompactETA: A Fast Inference System for Travel Time Prediction](https://dl.acm.org/doi/10.1145/3394486.3403386) |KDD| 2020| - | - | encode high order spatial and temporal dependency into sophisticated representations by applying graph attention network on a spatiotemporal weighted road network graph. We further encode the sequential information of the travel route by positional encoding to avoid the recurrent network structure.  |
 | [DATSING: Data Augmented Time Series Forecasting with Adversarial Domain Adaptation](https://www.researchgate.net/publication/344082806_DATSING_Data_Augmented_Time_Series_Forecasting_with_Adversarial_Domain_Adaptation) | CIKM | 2020| - | - | propose a two-phased frameworkwhich first clusters similar mixed domains time series data and thenperforms a fine-tuning procedure with domain adversarial regular-ization to achieve better out-of-sample generalization. |
 | [Dual Sequential Network for Temporal Sets Prediction](https://dl.acm.org/doi/pdf/10.1145/3397271.3401124) | SIGIR | 2020| - | - | addressed the problem that most of the existing methods were designed for predicting time series or temporal events, which could not be directly used for temporal sets prediction due to the difficulties of multi-level representations of items and sets, complex temporal dependencies of sets, and evolving dynamics of sequential behaviors. |
+| [Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting](https://papers.nips.cc/paper/2019/file/3a0844cee4fcf57de0c71e9ad3035478-Paper.pdf)  | NeurIPS | 2019 | [Code](https://github.com/rajatsen91/deepglo) | electricity, traffic, wik, PeMS07(M) | Our model can be trained effectively on high-dimensional but diverse time series, where different time series can have vastly different scales, without a priori normalization or rescaling. |
+| [Shape and Time Distortion Loss for Training Deep Time Series Forecasting Models](https://papers.nips.cc/paper/2019/file/466accbac9a66b805ba50e42ad715740-Paper.pdf) | NeurIPS | 2019 | [Code](https://github.com/vincent-leguen/DILATE) | Synth, ECG, Traffic |  We introduce a differentiable loss function suitable for training deep neural nets, and provide a custom back-prop implementation for speeding up optimization. We also introduce a variant of DILATE, which provides a smooth generalization of temporally-constrained Dynamic Time Warping (DTW). |
+|    [Enhancing the Locality and Breaking the Memory Bottleneck of Transformer on Time Series Forecasting](https://papers.nips.cc/paper/2019/file/6775a0635c302542da2c32aa19d86be0-Paper.pdf) | NeurIPS | 2019 | - | [solar](https://www.nrel.gov/grid/solar-power-data.html), [wind](https://www.kaggle.com/sohier/30-years-of-european-wind-generation) | we first propose convolutional self-attention by producing queries and keys with causal convolution so that local context can be better incorporated into attention mechanism. |
+|    []()         | NeurIPS | 2019 | [Code]() | [Datasets]() | - |
+|    []()         | NeurIPS | 2019 | [Code]() | [Datasets]() | - |
+|    [U-Time: A Fully Convolutional Network for Time Series Segmentation Applied to Sleep Staging]() | NeurIPS | 2019 | [Code]() | [Datasets]() | - |
+|    []()         | NeurIPS | 2019 | [Code]() | [Datasets]() | - |
+|    []()         | NeurIPS | 2019 | [Code]() | [Datasets]() | - |
+|    []()         | NeurIPS | 2019 | [Code]() | [Datasets]() | - |
+
+
+
 
 ## Time Series Classification 
 |             Paper             | Conference | Year | Code | Used Datasets |Key Contribution|
@@ -193,6 +205,8 @@ We divided these papers into several fundamental tasks as follows.
 | [Clustering Interval-Censored Time-Series for Disease Phenotyping](https://arxiv.org/pdf/2102.07005v4.pdf) | AAAI | 2022 |- | - | present our method, SubLign, to learn latent representations of disease progression that correct for temporal misalignment in real-world observations and consider conditions for identifiability of subtype and alignment values. |
 | [Corsets for Time Series Clustering](https://arxiv.org/pdf/2110.15263.pdf) | NeurIPS| 2021 | - | synthetic data |address the problem of constructing coresets for time series data generated from Gaussian mixture models with auto-correlations across time.|
 | [Temporal Phenotyping using Deep Predictive Clustering of Disease Progression](http://proceedings.mlr.press/v119/lee20h/lee20h.pdf) | ICML | 2020| [Code link](https://github.com/chl8856/AC_TPC) | [UKCF](https://www.cysticfibrosis.org.uk), [Alzheimer’s Disease Neuroimaging Initiative (ADNI)](https://adni.loni.usc.edu) | defined novel loss functions to encourage each cluster to have homogeneous future outcomes and designed optimization procedures to avoid trivial solutions in identifying cluster as- signments and the centroids.  |
+|    [Learning low-dimensional state embeddings and metastable clusters from time series data](https://papers.nips.cc/paper/2019/file/c0e90532fb42ac6de18e25e95db73047-Paper.pdf)  | NeurIPS | 2019 | - | simulated diffusion processes | his idea also leads to a kernel reshaping method for more accurate nonparametric estimation of the transition function. State embedding can be used to cluster states into metastable sets, thereby identifying the slow dynamics. Sharp statistical error bounds and misclassification rate are proved. |
+|    [Learning Representations for Time Series Clustering](https://papers.nips.cc/paper/2019/file/1359aa933b48b754a2f54adb688bfa77-Paper.pdf)         | NeurIPS | 2019 | - | - | ere we propose a novel unsupervised temporal representation learning model, named Deep Temporal Clustering Representation (DTCR), which integrates the temporal reconstruction and K-means objective into the seq2seq model. |
 
 ## Time series Segmentation 
 |             Paper             | Conference | Year | Code | Used Datasets |Key Contribution|
@@ -253,7 +267,9 @@ We divided these papers into several fundamental tasks as follows.
 | [Mining Recurring Patterns in Real-Valued Time Series using the Radius Profile](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338407) | ICDM | 2020 | - | - | - |
 | [Learning Periods from Incomplete Multivariate Time Series](cs.albany.edu/~petko/lab/papers/zgzb2020icdm.pdf) | ICDM | 2020 | - | - | - |
 | [FilCorr: Filtered and Lagged Correlation on Streaming Time Series](https://ieeexplore.ieee.org/document/9338257) | ICDM | 2020 | - | - | - |
-
+|    [Unsupervised Scalable Representation Learning for Multivariate Time Series ](https://papers.nips.cc/paper/2019/file/53c6de78244e9f528eb3e1cda69699bb-Paper.pdf)  | NeurIPS | 2019 | [Code]() | [Datasets]() | - |
+|    [Latent Ordinary Differential Equations for Irregularly-Sampled Time Series](https://papers.nips.cc/paper/2019/file/42a6845a557bef704ad8ac9cb4461d43-Paper.pdf)         | NeurIPS | 2019 | - | Human Activity dataset | We generalize RNNs to have continuous-time hidden dynamics defined by ordinary differential equations (ODEs), a model we call ODE-RNNs. Furthermore, we use ODE-RNNs to replace the recognition network of the recently-proposed Latent ODE model. |
+|    [GRU-ODE-Bayes: Continuous Modeling of Sporadically-Observed Time Series](https://papers.nips.cc/paper/2019/file/455cb2657aaa59e32fad80cb0b65b9dc-Paper.pdf)         | NeurIPS | 2019 | [Code]() | [Datasets]() | - |
 
 
 
