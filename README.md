@@ -17,6 +17,7 @@ We divided these papers into several fundamental tasks as follows.
  - Present the **datasets** used in papers
 
 ## Update
+- [2022-05-31] Add papers published in ICML 2022
 - [2022-05-31] Add papers published in NeurIPS, ICML, ICLR, SIGKDD, SIGIR, AAAI, IJCAI 2019!
 - [2022-05-05] Add papers published in WWW 2022!
 - [2022-04-25] **TS-Paper v1.0 is released!** We support the published time series papers from 2020 to 2022. Stay tuned!
