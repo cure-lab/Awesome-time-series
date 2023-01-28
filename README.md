@@ -4,7 +4,7 @@ A comprehensive survey on the time series papers from 2018-2022 (we will update 
 We divided these papers into several fundamental tasks as follows.
 - [📝 Time Series Papers](#-time-series-paper)
   - [Survey](#survey)
-  - [Benchmark & Dataset](#benchmark-&-dataset)
+  - [Benchmark and Dataset](#benchmark-and-dataset)
   - [Time Series Forecasting](#time-series-forecasting)
   - [Time Series Classification ](#time-series-classification)
   - [Anomaly Detection ](#anomaly-detection)
@@ -55,7 +55,7 @@ We divided these papers into several fundamental tasks as follows.
 |[Financial time series forecasting with deep learning : A systematic literature review: 2005–2019](https://arxiv.org/pdf/1911.13288.pdf)| ASC | 2019 | - | 1. They categorized the studies according to their intended forecasting implementation areas, such as index, forex, commodity forecasting. 2. They grouped DL model, such as Convolutional Neural Networks (CNNs), Deep Belief Networks (DBNs), Long-Short Term Memory (LSTM).
 |[Natural language based financial forecasting: a survey](https://dspace.mit.edu/bitstream/handle/1721.1/116314/10462_2017_9588_ReferencePDF.pdf?sequence=2&isAllowed=y)| Artificial Intelligence Review | 2018 | - | They show scopes, progress and hotspots in natural language based financial forecasting (NLFF).
 
-## Benchmark & Dataset
+## Benchmark and Dataset
 
 |             Paper                                                           | Conference | Year | Code | Key Contribution|
 | :--------------------------: | :-------------------: | :------------------: | ----------------------- |------ |
