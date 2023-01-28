@@ -4,6 +4,7 @@ A comprehensive survey on the time series papers from 2018-2022 (we will update 
 We divided these papers into several fundamental tasks as follows.
 - [📝 Time Series Papers](#-time-series-paper)
   - [Survey](#survey)
+  - [Benchmark & Dataset](#benchmark-&-dataset)
   - [Time Series Forecasting](#time-series-forecasting)
   - [Time Series Classification ](#time-series-classification)
   - [Anomaly Detection ](#anomaly-detection)
@@ -53,6 +54,14 @@ We divided these papers into several fundamental tasks as follows.
 |[Deep learning for time series classification: a review](https://arxiv.org/pdf/1809.04356.pdf)| Data Mining and Knowledge Discovery | 2019 | [link](https://github.com/hfawaz/dl-4-tsc) | They implemented existing approaches by training 8,730 deep learning models on 97 time series datasets.
 |[Financial time series forecasting with deep learning : A systematic literature review: 2005–2019](https://arxiv.org/pdf/1911.13288.pdf)| ASC | 2019 | - | 1. They categorized the studies according to their intended forecasting implementation areas, such as index, forex, commodity forecasting. 2. They grouped DL model, such as Convolutional Neural Networks (CNNs), Deep Belief Networks (DBNs), Long-Short Term Memory (LSTM).
 |[Natural language based financial forecasting: a survey](https://dspace.mit.edu/bitstream/handle/1721.1/116314/10462_2017_9588_ReferencePDF.pdf?sequence=2&isAllowed=y)| Artificial Intelligence Review | 2018 | - | They show scopes, progress and hotspots in natural language based financial forecasting (NLFF).
+
+## Benchmark & Dataset
+
+|             Paper                                                           | Conference | Year | Code | Key Contribution|
+| :--------------------------: | :-------------------: | :------------------: | ----------------------- |------ |
+|[Monash Time Series Forecasting Repository](https://forecastingdata.org/)| NeurIPS | 2021 | [paper link](https://openreview.net/pdf?id=wEc1mgAjU-) |There have been many deep time series evaluated on the same datasets in recent years. Even though this works for basic benchmarking, it may not hold up when applied to a variety of temporal tasks. Its goal is to create a "master list" of different time series datasets and serve as an authoritative benchmark. Over 20 different datasets are included in the repository, spanning industries as diverse as health, retail, ride-share, and demographics.
+|[Revisiting Time Series Outlier Detection: Definitions and Benchmarks](https://openreview.net/forum?id=r8IvOsnHchr)| NeurIPS | 2021 | [link](https://github.com/datamllab/tods/tree/benchmark) |This paper critiques many existing time series anomaly/outlier detection datasets and proposes 35 brand-new synthetic datasets and 4 real-world datasets for benchmarking purposes. 
+|[Subseasonal Forecasting Microsoft](https://www.microsoft.com/en-us/research/project/subseasonal-climate-forecasting/)| Microsoft | 2021 | [link](https://www.microsoft.com/en-us/research/project/subseasonal-climate-forecasting/downloads/) |Microsoft has released a dataset to facilitate machine learning for improving subseasonal forecasting (e.g. two to six weeks in the future). Forecasting subseasonally helps government agencies and farmers prepare for weather events. In general, deep learning models performed quite poorly compared to other methods in Microsoft's benchmark. A simple feed-forward model proved to be the most accurate DL model, while the Informer performed poorly. 
 
 ## Time Series Forecasting 
 
