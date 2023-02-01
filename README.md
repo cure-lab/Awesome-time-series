@@ -8,7 +8,7 @@
 A comprehensive survey on the time series papers from 2018-2022 (we will update it in time ASAP!) on the top conferences (NeurIPS, ICML, ICLR, SIGKDD, SIGIR, AAAI, IJCAI, WWW, CIKM, ICDM, WSDM, etc.)
 
 We divided these papers into several fundamental tasks as follows.
-- [📝 Time Series Papers](#-time-series-papers)
+- [📝 Time Series Papers](#-time-series-paper)
   - [Survey](#survey)
   - [Time Series Forecasting](#time-series-forecasting)
   - [Time Series Classification ](#time-series-classification)
