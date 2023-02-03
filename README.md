@@ -1,10 +1,15 @@
+# Awesome Time Series
+- [📝 Time Series Papers](#-time-series-papers)
+- [📝 Time Series Libraries](#-time-series-libraries)
+- [📝 Time Series Benchmarks and Datasets](#-time-series-benchmarks-and-datasets)
+
+
 # 📝 Time Series Papers
 A comprehensive survey on the time series papers from 2018-2022 (we will update it in time ASAP!) on the top conferences (NeurIPS, ICML, ICLR, SIGKDD, SIGIR, AAAI, IJCAI, WWW, CIKM, ICDM, WSDM, etc.)
 
 We divided these papers into several fundamental tasks as follows.
 - [📝 Time Series Papers](#-time-series-paper)
   - [Survey](#survey)
-  - [Benchmark and Dataset](#benchmark-and-dataset)
   - [Time Series Forecasting](#time-series-forecasting)
   - [Time Series Classification ](#time-series-classification)
   - [Anomaly Detection ](#anomaly-detection)
@@ -54,14 +59,6 @@ We divided these papers into several fundamental tasks as follows.
 |[Deep learning for time series classification: a review](https://arxiv.org/pdf/1809.04356.pdf)| Data Mining and Knowledge Discovery | 2019 | [link](https://github.com/hfawaz/dl-4-tsc) | They implemented existing approaches by training 8,730 deep learning models on 97 time series datasets.
 |[Financial time series forecasting with deep learning : A systematic literature review: 2005–2019](https://arxiv.org/pdf/1911.13288.pdf)| ASC | 2019 | - | 1. They categorized the studies according to their intended forecasting implementation areas, such as index, forex, commodity forecasting. 2. They grouped DL model, such as Convolutional Neural Networks (CNNs), Deep Belief Networks (DBNs), Long-Short Term Memory (LSTM).
 |[Natural language based financial forecasting: a survey](https://dspace.mit.edu/bitstream/handle/1721.1/116314/10462_2017_9588_ReferencePDF.pdf?sequence=2&isAllowed=y)| Artificial Intelligence Review | 2018 | - | They show scopes, progress and hotspots in natural language based financial forecasting (NLFF).
-
-## Benchmark and Dataset
-
-|             Paper                                                           | Conference | Year | Code | Key Contribution|
-| :--------------------------: | :-------------------: | :------------------: | ----------------------- |------ |
-|[Monash Time Series Forecasting Repository](https://forecastingdata.org/)| NeurIPS | 2021 | [paper link](https://openreview.net/pdf?id=wEc1mgAjU-) |There have been many deep time series evaluated on the same datasets in recent years. Even though this works for basic benchmarking, it may not hold up when applied to a variety of temporal tasks. Its goal is to create a "master list" of different time series datasets and serve as an authoritative benchmark. Over 20 different datasets are included in the repository, spanning industries as diverse as health, retail, ride-share, and demographics.
-|[Revisiting Time Series Outlier Detection: Definitions and Benchmarks](https://openreview.net/forum?id=r8IvOsnHchr)| NeurIPS | 2021 | [link](https://github.com/datamllab/tods/tree/benchmark) |This paper critiques many existing time series anomaly/outlier detection datasets and proposes 35 brand-new synthetic datasets and 4 real-world datasets for benchmarking purposes. 
-|[Subseasonal Forecasting Microsoft](https://www.microsoft.com/en-us/research/project/subseasonal-climate-forecasting/)| Microsoft | 2021 | [link](https://www.microsoft.com/en-us/research/project/subseasonal-climate-forecasting/downloads/) |Microsoft has released a dataset to facilitate machine learning for improving subseasonal forecasting (e.g. two to six weeks in the future). Forecasting subseasonally helps government agencies and farmers prepare for weather events. In general, deep learning models performed quite poorly compared to other methods in Microsoft's benchmark. A simple feed-forward model proved to be the most accurate DL model, while the Informer performed poorly. 
 
 ## Time Series Forecasting 
 
@@ -299,7 +296,31 @@ We divided these papers into several fundamental tasks as follows.
 |[U-Time: A Fully Convolutional Network for Time Series Segmentation Applied to Sleep Staging](https://papers.nips.cc/paper/2019/file/57bafb2c2dfeefba931bb03a835b1fa9-Paper.pdf) | NeurIPS | 2019 | [Code]() | [Datasets]() | - |
 |  [E^2GAN: End-to-End Generative Adversarial Network for Multivariate Time Series Imputation](https://www.ijcai.org/proceedings/2019/0429.pdf)| IJCAI | 2019 | -| - | - |
 
+# 📝 Time Series Libraries
 
+|             Name                                                           | Company | Stars | Explanation |
+| :--------------------------: | :-------------------: | :------------------: |:------ |
+|[📚 Darts](https://github.com/unit8co/darts)| Unit8 | ⭐️ 5.3K | Darts is a Python library for user-friendly forecasting and anomaly detection on time series. It contains a variety of models, from classics such as ARIMA to deep neural networks. The forecasting models can all be used in the same way, using fit() and predict() functions, similar to scikit-learn. The library also makes it easy to backtest models, combine the predictions of several models, and take external data into account. Darts supports both univariate and multivariate time series and models. The ML-based models can be trained on potentially large datasets containing multiple time series, and some of the models offer a rich support for probabilistic forecasting.
+|[📚 Prophet](https://github.com/facebook/prophet)| Meta (Facebook) | ⭐️ 15.5K | Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data. Prophet is robust to missing data and shifts in the trend, and typically handles outliers well.
+|[📚 Neural Prophet](https://github.com/ourownstory/neural_prophet)| - | ⭐️ 2.8K | A Neural Network based Time-Series model, inspired by Facebook Prophet and AR-Net, built on PyTorch.
+|[📚 GluonTS](https://github.com/awslabs/gluonts)| AWS | ⭐️ 3.3K | GluonTS is a Python package for probabilistic time series modeling, focusing on deep learning based models, based on PyTorch and MXNet.
+|[📚 stumpy](https://github.com/TDAmeritrade/stumpy)| TD Ameritrade | ⭐️ 2.5K | STUMPY is a powerful and scalable Python library that efficiently computes something called the matrix profile, which is just an academic way of saying "for every subsequence within your time series, automatically identify its corresponding nearest-neighbor". What's important is that once you've computed your matrix profile (middle panel above) it can then be used for a variety of time series data mining tasks.
+|[📚 tsfresh](https://github.com/blue-yonder/tsfresh)| Blue Yonder GmbH | ⭐️ 7K | The package provides systematic time-series feature extraction by combining established algorithms from statistics, time-series analysis, signal processing, and nonlinear dynamics with a robust feature selection algorithm. In this context, the term time-series is interpreted in the broadest possible sense, such that any types of sampled data or even event sequences can be characterised.
+|[📚 SKTIME](https://github.com/sktime/sktime)| - | ⭐️ 6.1K | sktime is a library for time series analysis in Python. It provides a unified interface for multiple time series learning tasks. Currently, this includes time series classification, regression, clustering, annotation and forecasting. It comes with time series algorithms and scikit-learn compatible tools to build, tune and validate time series models.
+|[📚 pmdarima](https://github.com/alkaline-ml/pmdarima)| - | ⭐️ 1.3K | Pmdarima (originally pyramid-arima, for the anagram of 'py' + 'arima') is a statistical library designed to fill the void in Python's time series analysis capabilities. 
+|[📚 tslearn](https://github.com/tslearn-team/tslearn)| - | ⭐️ 2.4K | The machine learning toolkit for time series analysis in Python.
+|[📚 PyTorch Forecasting](https://github.com/jdb78/pytorch-forecasting)| - | ⭐️ 2.6K | PyTorch Forecasting is a PyTorch-based package for forecasting time series with state-of-the-art network architectures. It provides a high-level API for training networks on pandas data frames and leverages PyTorch Lightning for scalable training on (multiple) GPUs, CPUs and for automatic logging.
+|[📚 StatsForecast](https://github.com/Nixtla/statsforecast)| - | ⭐️ 2.2K | StatsForecast offers a collection of widely used univariate time series forecasting models, including automatic ARIMA, ETS, CES, and Theta modeling optimized for high performance using numba. It also includes a large battery of benchmarking models.
+|[📚 Streamz](https://github.com/python-streamz/streamz)| - | ⭐️ 1.1K | Streamz helps you build pipelines to manage continuous streams of data. It is simple to use in simple cases, but also supports complex pipelines that involve branching, joining, flow control, feedback, back pressure, and so on.
+ 
+
+# 📝 Time Series Benchmarks and Datasets
+
+|             Paper                                                           | Conference | Year | Code | Key Contribution|
+| :--------------------------: | :-------------------: | :------------------: | ----------------------- |------ |
+|[Monash Time Series Forecasting Repository](https://forecastingdata.org/)| NeurIPS | 2021 | [paper link](https://openreview.net/pdf?id=wEc1mgAjU-) |There have been many deep time series evaluated on the same datasets in recent years. Even though this works for basic benchmarking, it may not hold up when applied to a variety of temporal tasks. Its goal is to create a "master list" of different time series datasets and serve as an authoritative benchmark. Over 20 different datasets are included in the repository, spanning industries as diverse as health, retail, ride-share, and demographics.
+|[Revisiting Time Series Outlier Detection: Definitions and Benchmarks](https://openreview.net/forum?id=r8IvOsnHchr)| NeurIPS | 2021 | [link](https://github.com/datamllab/tods/tree/benchmark) |This paper critiques many existing time series anomaly/outlier detection datasets and proposes 35 brand-new synthetic datasets and 4 real-world datasets for benchmarking purposes. 
+|[Subseasonal Forecasting Microsoft](https://www.microsoft.com/en-us/research/project/subseasonal-climate-forecasting/)| Microsoft | 2021 | [link](https://www.microsoft.com/en-us/research/project/subseasonal-climate-forecasting/downloads/) |Microsoft has released a dataset to facilitate machine learning for improving subseasonal forecasting (e.g. two to six weeks in the future). Forecasting subseasonally helps government agencies and farmers prepare for weather events. In general, deep learning models performed quite poorly compared to other methods in Microsoft's benchmark. A simple feed-forward model proved to be the most accurate DL model, while the Informer performed poorly. 
 
 ## Contributing
 We appreciate all contributions to improve this paper repo!
