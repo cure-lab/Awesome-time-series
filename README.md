@@ -2,6 +2,7 @@
 - [📝 Time Series Papers](#-time-series-papers)
 - [📝 Time Series Libraries](#-time-series-libraries)
 - [📝 Time Series Benchmarks and Datasets](#-time-series-benchmarks-and-datasets)
+- [📝 Awesome Repositories](#-awesome-repositories)
 
 
 # 📝 Time Series Papers
@@ -321,6 +322,12 @@ We divided these papers into several fundamental tasks as follows.
 |[Monash Time Series Forecasting Repository](https://forecastingdata.org/)| NeurIPS | 2021 | [paper link](https://openreview.net/pdf?id=wEc1mgAjU-) |There have been many deep time series evaluated on the same datasets in recent years. Even though this works for basic benchmarking, it may not hold up when applied to a variety of temporal tasks. Its goal is to create a "master list" of different time series datasets and serve as an authoritative benchmark. Over 20 different datasets are included in the repository, spanning industries as diverse as health, retail, ride-share, and demographics.
 |[Revisiting Time Series Outlier Detection: Definitions and Benchmarks](https://openreview.net/forum?id=r8IvOsnHchr)| NeurIPS | 2021 | [link](https://github.com/datamllab/tods/tree/benchmark) |This paper critiques many existing time series anomaly/outlier detection datasets and proposes 35 brand-new synthetic datasets and 4 real-world datasets for benchmarking purposes. 
 |[Subseasonal Forecasting Microsoft](https://www.microsoft.com/en-us/research/project/subseasonal-climate-forecasting/)| Microsoft | 2021 | [link](https://www.microsoft.com/en-us/research/project/subseasonal-climate-forecasting/downloads/) |Microsoft has released a dataset to facilitate machine learning for improving subseasonal forecasting (e.g. two to six weeks in the future). Forecasting subseasonally helps government agencies and farmers prepare for weather events. In general, deep learning models performed quite poorly compared to other methods in Microsoft's benchmark. A simple feed-forward model proved to be the most accurate DL model, while the Informer performed poorly. 
+
+# 📝 Awesome Repositories
+
+|             Name                                                           | Company | Stars | Explanation |
+| :--------------------------: | :-------------------: | :------------------: |:------ |
+|[📚 Awesome Conformal Prediction](https://github.com/valeman/awesome-conformal-prediction)| - | ⭐️ 1.4K | The most comprehensive professionally curated resource on Conformal Prediction (and specific time-series conformal prediction) including the best tutorials, videos, books, papers, articles, courses, websites, conferences and open-source libraries code in Python, R and Julia. 
 
 ## Contributing
 We appreciate all contributions to improve this paper repo!
