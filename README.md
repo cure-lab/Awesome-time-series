@@ -312,7 +312,7 @@ We divided these papers into several fundamental tasks as follows.
 |[📚 PyTorch Forecasting](https://github.com/jdb78/pytorch-forecasting)| - | ⭐️ 2.6K | PyTorch Forecasting is a PyTorch-based package for forecasting time series with state-of-the-art network architectures. It provides a high-level API for training networks on pandas data frames and leverages PyTorch Lightning for scalable training on (multiple) GPUs, CPUs and for automatic logging.
 |[📚 StatsForecast](https://github.com/Nixtla/statsforecast)| - | ⭐️ 2.2K | StatsForecast offers a collection of widely used univariate time series forecasting models, including automatic ARIMA, ETS, CES, and Theta modeling optimized for high performance using numba. It also includes a large battery of benchmarking models.
 |[📚 Streamz](https://github.com/python-streamz/streamz)| - | ⭐️ 1.1K | Streamz helps you build pipelines to manage continuous streams of data. It is simple to use in simple cases, but also supports complex pipelines that involve branching, joining, flow control, feedback, back pressure, and so on.
- 
+|[📚 PyPOTS](https://github.com/WenjieDu/PyPOTS)| - | ⭐️ 613 | A Python toolbox for machine learning on Partially-Observed Time Series
 
 # 📝 Time Series Benchmarks and Datasets
 
